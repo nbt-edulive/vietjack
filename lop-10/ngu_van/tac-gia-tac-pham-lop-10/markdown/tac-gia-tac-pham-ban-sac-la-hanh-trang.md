@@ -1,0 +1,99 @@
+# Bản sắc là hành trang - Tác giả tác phẩm (mới 2025) - Ngữ văn lớp 10 Cánh diều
+
+# Bản sắc là hành trang - Tác giả tác phẩm (mới 2025) - Ngữ văn lớp 10 Cánh diều
+
+Với tác giả, tác phẩm Bản sắc là hành trang Ngữ văn lớp 10 Cánh diều hay nhất, chi tiết trình bày đầy đủ nội dung chính quan trọng nhất về tác phẩm Bản sắc là hành trang gồm bố cục, tóm tắt, nội dung chính, giá trị nội dung, giá trị nghệ thuật, dàn ý, ....
+
+## Tác giả - tác phẩm: Bản sắc là hành trang - Ngữ văn lớp 10 Cánh diều
+
+### **I. Tác giả văn bản Bản sắc là hành trang**
+
+Quảng cáo
+
+\- Tên tuổi: Nguyễn Sĩ Dũng (1955) 
+
+![Bản sắc là hành trang - Tác giả tác phẩm \(mới 2025\) | Ngữ văn lớp 10 Cánh diều](https://vietjack.com/soan-van-lop-10-cd/images/tac-gia-tac-pham-ban-sac-la-hanh-trang.PNG)
+
+\- Quê quán: Nghệ An
+
+\- Phong cách nghệ thuật: chau chuốt, logic
+
+\- Tác phẩm chính: "Những nghịch lý của thời gian", “Thế sự - một góc nhìn”,...
+
+### **II. Tìm hiểu tác phẩm Bản sắc là hành trang**
+
+**1\. Thể loại:** Nghị luận
+
+**2\. Xuất xứ và hoàn cảnh sáng tác:** Trích trong “Những nghịch lí của thời gian” năm 2011
+
+**3\. Phương thức biểu đạt :** Nghị luận
+
+**4.__ Người kể chuyện:** Ngôi thứ 3
+
+**5\. Tóm tắt:**
+
+Thế giới ngày càng phát triển đặt ra nhiều yêu cầu tuy nhiên cần hội nhập chứ không hòa tan. Đặc biệt là phải giữ gìn bản sắc văn hoa Việt Nam để tạo ra những nét độc đáo riêng cho dân tộc. Tiêu biểu như tiếng Việt, trống đồng, tượng chùa Tây Phương, kho tàng dân ca… Bản sắc văn hoa giúp cho bạn bè thế giới ngưỡng mộ, gây chú ý đặc biệt trong tâm thức, có sự hấp dẫn kì lạ… Vì vậy giữ gìn bản sắc văn hóa là phương châm và hành động của mỗi cá nhân
+
+**6\. Bố cục:**
+
+\- Phần 1: Khái niệm hội nhập
+
+\- Phần 2: Giá trị của bản sắc văn hóa Việt Nam
+
+\- Phần 3: Nhấn mạnh việc tiếp thu tinh hoa văn hóa nhân loại.
+
+**7\. Giá trị nội dung:**
+
+\- Nêu bật được giá trị của bản sắc văn hóa Việt Nam. 
+
+\- Nhấn mạnh vào ý thức của mỗi người trong việc giữ gì và bảo vệ bản sắc văn hóa dân tộc.
+
+**8\. Giá trị nghệ thuật:**
+
+**-** Luận điểm rõ ràng
+
+\- Ngôn ngữ sắc bén…
+
+Quảng cáo
+
+### **III. Tìm hiểu chi tiết tác phẩm Bản sắc là hành trang**
+
+**1\. Khái niệm hội nhập**
+
+\- Tác giả đưa ra một khái niệm mới mẻ về hội nhập: “Hội nhập là việc sông kết vào với biển, chứ không phải việc sông tan biến vào trong biển"”
+
+=> Nhấn mạnh việc hòa nhập chứ không hòa tan.
+
+**2\. Giá trị của bản sắc văn hóa Việt Nam**
+
+\- Tác giả đưa ra luận điểm về bản sắc “Bản sắc là tất cả những gì đặc trưng cho dân tộc Việt Nam, tất cả những gì làm cho người Việt chúng ta khác với mọi dân tộc người khác trên thế giới."”
+
+\- Dẫn chứng:
+
+\+ Ngôn ngữ tiếng Việt
+
+\+ Trống đồng
+
+\+ Tượng chùa Tây Phương....
+
+\- Tác giả mượn hình ảnh so sánh chiếc xe Lếch – xớt với cây ô liu.
+
+=> Khẳng định thêm những giá trị của bản sắc văn hóa.
+
+**3\. Nhấn mạnh việc tiếp thu tinh hoa văn hóa nhân loại.**
+
+\- Tác giả tổng kế và nhấn mạnh về việc tiếp thu văn hóa nhân loại là trách nhiệm của mỗi cá nhân.
+
+Quảng cáo
+
+### **Học tốt bài Bản sắc là hành trang**
+
+Các bài học giúp bạn để học tốt bài Bản sắc là hành trang Ngữ văn lớp 10 hay khác:
+
+Xem thêm tóm tắt tác giả, tác phẩm Ngữ Văn lớp 10 Cánh diều hay, chi tiết khác:
+
+Xem thêm các tài liệu học tốt lớp 10 hay khác:
+
+* * *
+
+Giải bài tập lớp 10 Cánh diều khác

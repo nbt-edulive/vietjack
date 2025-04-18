@@ -1,160 +1,193 @@
-# Vở bài tập Toán lớp 4 Kết nối tri thức Bài 53: Khái niệm phân số
+# Vở bài tập Toán lớp 4 Cánh diều Bài 53: Khái niệm phân số
 
-# Vở bài tập Toán lớp 4 Kết nối tri thức Bài 53: Khái niệm phân số
+# Vở bài tập Toán lớp 4 Cánh diều Bài 53: Khái niệm phân số
 
-Với giải vở bài tập Toán lớp 4 Bài 53: Khái niệm phân số trang 56, 57, 58 sách Kết nối tri thức hay nhất, chi tiết sẽ giúp học sinh dễ dàng làm bài tập về nhà trong vở bài tập Toán lớp 4 Tập 2.
+Với giải vở bài tập Toán lớp 4 Bài 53: Khái niệm phân số trang 4, 5, 6 sách Cánh diều hay nhất, chi tiết sẽ giúp học sinh dễ dàng làm bài tập về nhà trong vở bài tập Toán lớp 4 Tập 2.
 
-## Giải vở bài tập Toán lớp 4 Kết nối tri thức Bài 53: Khái niệm phân số
-
-Quảng cáo
-
-### [**Vở bài tập Toán lớp 4 Tập 2 trang 56, 57 Bài 53 Tiết 1**](https://vietjack.com/vbt-toan-4-kn/bai-53-tiet-1-trang-56-tap-2.jsp)
-
-[**Vở bài tập Toán lớp 4 Tập 2 trang 56**](https://vietjack.com/vbt-toan-4-kn/vbt-toan-lop-4-tap-2-trang-56-ket-noi.jsp)
-
-**Vở bài tập Toán lớp 4 Tập 2 trang 56 Bài 1:** Viết phân số chỉ phần đã tô màu của mỗi hình vào chỗ chấm (theo mẫu).
-
-![Vở bài tập Toán lớp 4 Kết nối tri thức Bài 53: Khái niệm phân số](https://vietjack.com/vbt-toan-4-kn/images/bai-53-khai-niem-phan-so.PNG)
-
-**Lời giải**
-
-![Vở bài tập Toán lớp 4 Kết nối tri thức Bài 53: Khái niệm phân số](https://vietjack.com/vbt-toan-4-kn/images/bai-53-khai-niem-phan-so-1.PNG)
+## Giải vở bài tập Toán lớp 4 Cánh diều Bài 53: Khái niệm phân số
 
 Quảng cáo
 
-**Vở bài tập Toán lớp 4 Tập 2 trang 56 Bài 2:** Số?
+[**Vở bài tập Toán lớp 4 Tập 2 trang 4**](https://vietjack.com/vbt-toan-4-cd/vbt-toan-lop-4-tap-2-trang-4-canh-dieu.jsp)
 
-![Vở bài tập Toán lớp 4 Kết nối tri thức Bài 53: Khái niệm phân số](https://vietjack.com/vbt-toan-4-kn/images/bai-53-khai-niem-phan-so-2.PNG)
+**Vở bài tập Toán lớp 4 Tập 2 trang 4 Bài 1:**
+
+a) Nối (theo mẫu)
+
+![Vở bài tập Toán lớp 4 Cánh diều Bài 53: Khái niệm phân số](https://vietjack.com/vbt-toan-4-cd/images/bai-53-khai-niem-phan-so-202923.PNG)
+
+b) Thực hiện (theo mẫu):
+
+![Vở bài tập Toán lớp 4 Cánh diều Bài 53: Khái niệm phân số](https://vietjack.com/vbt-toan-4-cd/images/bai-53-khai-niem-phan-so-202924.PNG) | 35 | Ba phần năm  
+---|---|---  
+![Vở bài tập Toán lớp 4 Cánh diều Bài 53: Khái niệm phân số](https://vietjack.com/vbt-toan-4-cd/images/bai-53-khai-niem-phan-so-202925.PNG) |  |   
+![Vở bài tập Toán lớp 4 Cánh diều Bài 53: Khái niệm phân số](https://vietjack.com/vbt-toan-4-cd/images/bai-53-khai-niem-phan-so-202926.PNG) |  |   
+  
+c) Viết tử số, mẫu số của mỗi phân số có ở câu b.
+
+............................................................................................
+
+............................................................................................
+
+............................................................................................
 
 **Lời giải**
 
-![Vở bài tập Toán lớp 4 Kết nối tri thức Bài 53: Khái niệm phân số](https://vietjack.com/vbt-toan-4-kn/images/bai-53-khai-niem-phan-so-3.PNG)
+a) Nối (theo mẫu)
 
-**Vở bài tập Toán lớp 4 Tập 2 trang 56 Bài 3:** Nối mỗi phân số với cách đọc của phân số đó.
+![Vở bài tập Toán lớp 4 Cánh diều Bài 53: Khái niệm phân số](https://vietjack.com/vbt-toan-4-cd/images/bai-53-khai-niem-phan-so-202927.PNG)
+
+b) Thực hiện (theo mẫu):
+
+![Vở bài tập Toán lớp 4 Cánh diều Bài 53: Khái niệm phân số](https://vietjack.com/vbt-toan-4-cd/images/bai-53-khai-niem-phan-so-202928.PNG) | 35 | Ba phần năm  
+---|---|---  
+![Vở bài tập Toán lớp 4 Cánh diều Bài 53: Khái niệm phân số](https://vietjack.com/vbt-toan-4-cd/images/bai-53-khai-niem-phan-so-202929.PNG) | 58 | Năm phần tám  
+![Vở bài tập Toán lớp 4 Cánh diều Bài 53: Khái niệm phân số](https://vietjack.com/vbt-toan-4-cd/images/bai-53-khai-niem-phan-so-202930.PNG) | 48 | Bốn phần tám  
+  
+c) Viết tử số, mẫu số của mỗi phân số có ở câu b.
+
+|  | **Tử số** | **Mẫu số**  
+---|---|---|---  
+35 | Ba phần năm | 3 | 5  
+58 | Năm phần tám | 5 | 8  
+48 | Bốn phần tám | 4 | 8  
+  
+Quảng cáo
+
+[**Vở bài tập Toán lớp 4 Tập 2 trang 5**](https://vietjack.com/vbt-toan-4-cd/vbt-toan-lop-4-tap-2-trang-5-canh-dieu.jsp)
+
+**Vở bài tập Toán lớp 4 Tập 2 trang 5 Bài 2:** Chỉ ra lỗi sai trong mỗi phát biểu sau:
+
+![Vở bài tập Toán lớp 4 Cánh diều Bài 53: Khái niệm phân số](https://vietjack.com/vbt-toan-4-cd/images/bai-53-khai-niem-phan-so-202931.PNG)  
+Đã tô màu 12 hình tam giác. ............................... ............................... ............................... ............................... ............................... ............................... |  ![Vở bài tập Toán lớp 4 Cánh diều Bài 53: Khái niệm phân số](https://vietjack.com/vbt-toan-4-cd/images/bai-53-khai-niem-phan-so-202932.PNG)  
+Đã tô màu 13 hình chữ nhật. ............................... ............................... ............................... ............................... ............................... ............................... |  ![Vở bài tập Toán lớp 4 Cánh diều Bài 53: Khái niệm phân số](https://vietjack.com/vbt-toan-4-cd/images/bai-53-khai-niem-phan-so-202933.PNG)  
+Đã tô màu 23 hình vuông. ............................... ............................... ............................... ............................... ............................... ...............................  
+---|---|---  
+  
+**Lời giải**
+
+![Vở bài tập Toán lớp 4 Cánh diều Bài 53: Khái niệm phân số](https://vietjack.com/vbt-toan-4-cd/images/bai-53-khai-niem-phan-so-202934.PNG)  
+Đã tô màu 12 hình tam giác. Sai. Vì hình không chia thành hai phần bằng nhau. Do đó, phần được tô màu không bằng 12 hình tam giác. |  ![Vở bài tập Toán lớp 4 Cánh diều Bài 53: Khái niệm phân số](https://vietjack.com/vbt-toan-4-cd/images/bai-53-khai-niem-phan-so-202935.PNG)  
+Đã tô màu 13 hình chữ nhật. Sai. Vì hình không chia thành ba phần bằng nhau. Do đó, phần được tô màu không bằng 13 hình chữ nhật. |  ![Vở bài tập Toán lớp 4 Cánh diều Bài 53: Khái niệm phân số](https://vietjack.com/vbt-toan-4-cd/images/bai-53-khai-niem-phan-so-202936.PNG)  
+Đã tô màu 23 hình vuông. Sai. Vì hình không chia thành ba phần bằng nhau. Do đó, phần được tô màu không bằng 23 hình vuông.  
+---|---|---  
+  
+**Vở bài tập Toán lớp 4 Tập 2 trang 5 Bài 3:**
+
+a) Viết rồi đọc phân số chỉ số phần đã tô màu trong mỗi hình dưới đây (theo mẫu):
+
+Mẫu: ![Vở bài tập Toán lớp 4 Cánh diều Bài 53: Khái niệm phân số](https://vietjack.com/vbt-toan-4-cd/images/bai-53-khai-niem-phan-so-202937.PNG)  
+59 Năm phần chín |  ![Vở bài tập Toán lớp 4 Cánh diều Bài 53: Khái niệm phân số](https://vietjack.com/vbt-toan-4-cd/images/bai-53-khai-niem-phan-so-202938.PNG)  
+...... ................................. |  ![Vở bài tập Toán lớp 4 Cánh diều Bài 53: Khái niệm phân số](https://vietjack.com/vbt-toan-4-cd/images/bai-53-khai-niem-phan-so-202939.PNG)  
+...... ............................  
+---|---|---  
+  
+b) Viết phân số chỉ số phần số lon nước ngọt còn lại trong mỗi hộp:
+
+![Vở bài tập Toán lớp 4 Cánh diều Bài 53: Khái niệm phân số](https://vietjack.com/vbt-toan-4-cd/images/bai-53-khai-niem-phan-so-203512.PNG)
 
 Quảng cáo
 
-![Vở bài tập Toán lớp 4 Kết nối tri thức Bài 53: Khái niệm phân số](https://vietjack.com/vbt-toan-4-kn/images/bai-53-khai-niem-phan-so-4.PNG)
+**Lời giải**
+
+a) Viết rồi đọc phân số chỉ số phần đã tô màu trong mỗi hình dưới đây (theo mẫu):
+
+Mẫu: ![Vở bài tập Toán lớp 4 Cánh diều Bài 53: Khái niệm phân số](https://vietjack.com/vbt-toan-4-cd/images/bai-53-khai-niem-phan-so-202941.PNG)  
+59 Năm phần chín |  ![Vở bài tập Toán lớp 4 Cánh diều Bài 53: Khái niệm phân số](https://vietjack.com/vbt-toan-4-cd/images/bai-53-khai-niem-phan-so-202942.PNG)  
+35 Ba phần năm |  ![Vở bài tập Toán lớp 4 Cánh diều Bài 53: Khái niệm phân số](https://vietjack.com/vbt-toan-4-cd/images/bai-53-khai-niem-phan-so-202943.PNG)  
+47 Bốn phần bảy  
+---|---|---  
+  
+b) Viết phân số chỉ số phần số lon nước ngọt còn lại trong mỗi hộp:
+
+![Vở bài tập Toán lớp 4 Cánh diều Bài 53: Khái niệm phân số](https://vietjack.com/vbt-toan-4-cd/images/bai-53-khai-niem-phan-so-203513.PNG)
+
+[**Vở bài tập Toán lớp 4 Tập 2 trang 6**](https://vietjack.com/vbt-toan-4-cd/vbt-toan-lop-4-tap-2-trang-6-canh-dieu.jsp)
+
+**Vở bài tập Toán lớp 4 Tập 2 trang 6 Bài 4:**
+
+a) Thực hiện (theo mẫu):
+
+**Phân số** | **Tử số** | **Mẫu số**  
+---|---|---  
+45 | 4 | 5  
+79 |  |   
+813 |  |   
+  
+b) Viết các phân số:
+
+Ba phần bảy: .................
+
+Năm phần mười hai: ...............
+
+Chín phần mười: ....................
+
+c) Đọc các phân số:
+
+811: ........................................... 49: ............................................ |  67: ............................................ 5100: .........................................  
+---|---  
+  
+**Lời giải**
+
+a) Thực hiện (theo mẫu):
+
+**Phân số** | **Tử số** | **Mẫu số**  
+---|---|---  
+45 | 4 | 5  
+79 | 7 | 9  
+813 | 8 | 13  
+  
+b) Viết các phân số:
+
+Ba phần bảy: 37
+
+Năm phần mười hai: 512
+
+Chín phần mười: 910
+
+c) Đọc các phân số:
+
+811: Tám phần mười một 49: Bốn phần chín |  67: Sáu phần bảy 5100: Năm phần một trăm  
+---|---  
+  
+**Vở bài tập Toán lớp 4 Tập 2 trang 6 Bài 5:** Trò chơi ""Đố bạn"
+
+Viết một phân số và vẽ hình biểu diễn phân số đó:
+
+![Vở bài tập Toán lớp 4 Cánh diều Bài 53: Khái niệm phân số](https://vietjack.com/vbt-toan-4-cd/images/bai-53-khai-niem-phan-so-202945.PNG)
+
+Đố bạn đọc và nêu tử số, mẫu số của phân số em vừa viết.
 
 **Lời giải**
 
-![Vở bài tập Toán lớp 4 Kết nối tri thức Bài 53: Khái niệm phân số](https://vietjack.com/vbt-toan-4-kn/images/bai-53-khai-niem-phan-so-5.PNG)
+\- Phân số em viết là: 48.
 
-[**Vở bài tập Toán lớp 4 Tập 2 trang 57**](https://vietjack.com/vbt-toan-4-kn/vbt-toan-lop-4-tap-2-trang-57-ket-noi.jsp)
+\- Hình biểu diễn là: ![Vở bài tập Toán lớp 4 Cánh diều Bài 53: Khái niệm phân số](https://vietjack.com/vbt-toan-4-cd/images/bai-53-khai-niem-phan-so-202946.PNG)
+
+\- Đọc phân số: bốn phần tám.
+
+\+ Tử số: 4
+
+\+ Mẫu số: 8
 
 Quảng cáo
 
-**Vở bài tập Toán lớp 4 Tập 2 trang 57 Bài 4:** Khoanh vào chữ đặt trước câu trả lời đúng.
+**Vở bài tập Toán lớp 4 Tập 2 trang 6 Bài 6:** Người ta đã ngăn 34 mặt đường để tiến hành sửa chữa. Em hiểu thông tin trên như thế nào?
 
-![Vở bài tập Toán lớp 4 Kết nối tri thức Bài 53: Khái niệm phân số](https://vietjack.com/vbt-toan-4-kn/images/bai-53-khai-niem-phan-so-6.PNG)
+![Vở bài tập Toán lớp 4 Cánh diều Bài 53: Khái niệm phân số](https://vietjack.com/vbt-toan-4-cd/images/bai-53-khai-niem-phan-so-202947.PNG)
 
-Phân số chỉ phần đã tô màu của hình bên là:
+**Trả lời** : .....................................................................................
 
-A. 710 B.73 C. 36 D. 310
-
-**Phương pháp giải:**
-
-Phân số chỉ phần đã tô màu có tử số chỉ số phần đã tô màu và mẫu số chỉ số phần bằng nhau
+..................................................................................................
 
 **Lời giải**
 
-**Đáp án đúng là: 10**
+Em hiểu thông tin trên là: mặt đường có 4 làn đường. Trong đó, 3 làn đường bị ngăn lại để sửa chữa.
 
-Hình trên có số phần đã tô màu là 3. Vậy tử số là 3.
-
-Hình trên có số phần bằng nhau là 10. Vậy mẫu số là 10.
-
-Vậy phân số chỉ phần đã tô màu là: 310  
-
-
-### [**Vở bài tập Toán lớp 4 Tập 2 trang 57, 58 Bài 53 Tiết 2**](https://vietjack.com/vbt-toan-4-kn/bai-53-tiet-2-trang-57-tap-2.jsp)
-
-**Vở bài tập Toán lớp 4 Tập 2 trang 57 Bài 1:** Viết phân số và cách đọc phân số đó vào chỗ chấm (theo mẫu).
-
-![Vở bài tập Toán lớp 4 Kết nối tri thức Bài 53: Khái niệm phân số](https://vietjack.com/vbt-toan-4-kn/images/bai-53-khai-niem-phan-so-7.PNG)
-
-**Lời giải**
-
-![Vở bài tập Toán lớp 4 Kết nối tri thức Bài 53: Khái niệm phân số](https://vietjack.com/vbt-toan-4-kn/images/bai-53-khai-niem-phan-so-8.PNG)
-
-**Vở bài tập Toán lớp 4 Tập 2 trang 57 Bài 2:** Viết phân số thích hợp vào chỗ chấm.
-
-a) Tám phần mười lăm viết là ……………
-
-b) Bảy phần mười bảy viết là …………….
-
-c) Mười một phần hai mươi lăm viết là ………..
-
-d) Hai mươi ba phần bốn mươi tám viết là ………….
-
-**Lời giải**
-
-a) Tám phần mười lăm viết là 815
-
-b) Bảy phần mười bảy viết là 710
-
-c) Mười một phần hai mươi lăm viết là 1125
-
-d) Hai mươi ba phần bốn mươi tám viết là 2348
-
-[**Vở bài tập Toán lớp 4 Tập 2 trang 58**](https://vietjack.com/vbt-toan-4-kn/vbt-toan-lop-4-tap-2-trang-58-ket-noi.jsp)
-
-**Vở bài tập Toán lớp 4 Tập 2 trang 58 Bài 3:** Viết dấu “X” vào ô trống dưới hình đã tô màu 35số hình tròn của hình đó.
-
-![Vở bài tập Toán lớp 4 Kết nối tri thức Bài 53: Khái niệm phân số](https://vietjack.com/vbt-toan-4-kn/images/bai-53-khai-niem-phan-so-9.PNG)
-
-**Lời giải**
-
-![Vở bài tập Toán lớp 4 Kết nối tri thức Bài 53: Khái niệm phân số](https://vietjack.com/vbt-toan-4-kn/images/bai-53-khai-niem-phan-so-10.PNG)
-
-**Vở bài tập Toán lớp 4 Tập 2 trang 58 Bài 4:** Khoanh vào chữ đặt trước câu trả lời đúng.
-
-![Vở bài tập Toán lớp 4 Kết nối tri thức Bài 53: Khái niệm phân số](https://vietjack.com/vbt-toan-4-kn/images/bai-53-khai-niem-phan-so-11.PNG)
-
-a) Phân số chỉ phần đã tô màu của hình bên là:
-
-A. 75 B. 512 C. 712 D. 57
-
-b) Phân số chỉ phần chưa tô màu của hình bên là:
-
-A. 75 B. 512 C. 712 D. 57
-
-**Lời giải**
-
-a)
-
-**Đáp án đúng là: C**
-
-Hình trên có số phần đã tô màu là 7. Vậy tử số là 7.
-
-Hình trên có số phần bằng nhau là 12. Vậy mẫu số là 12.
-
-Vậy phân số chỉ phần đã tô màu là: 712
-
-b)
-
-**Đáp án đúng là: D**
-
-Hình trên có số phần chưa tô màu là 5. Vậy tử số là 5.
-
-Hình trên có số phần bằng nhau là 12. Vậy mẫu số là 12.
-
-Vậy phân số chỉ phần chưa tô màu là: 512
-
-**Vở bài tập Toán lớp 4 Tập 2 trang 58 Bài 5:** Tô màu vào 34 số con cá trong hình dưới đây.
-
-![Vở bài tập Toán lớp 4 Kết nối tri thức Bài 53: Khái niệm phân số](https://vietjack.com/vbt-toan-4-kn/images/bai-53-khai-niem-phan-so-12.PNG)
-
-**Lời giải**
-
-Tô màu vào 34 số con cá trong hình:
-
-Em tô màu vào 9 con cá trong hình.
-
-Xem thêm các bài giải vở bài tập Toán lớp 4 Kết nối tri thức hay, chi tiết khác:
+Xem thêm các bài giải vở bài tập Toán lớp 4 Cánh diều hay, chi tiết khác:
 
 Xem thêm các tài liệu học tốt lớp 4 hay khác:
 
 * * *
 
-Giải bài tập lớp 4 Kết nối tri thức khác
+Giải bài tập lớp 4 Cánh diều khác

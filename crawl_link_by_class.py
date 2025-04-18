@@ -114,7 +114,7 @@ def save_to_json(data, filename):
 
 def main():
     # Tìm tất cả các thư mục lớp
-    grade_folders = [folder for folder in os.listdir('.') if folder.startswith('lop-') and os.path.isdir(folder)]
+    grade_folders = [f'lop-{i}' for i in range(2, 6) if os.path.isdir(f'lop-{i}')]
     
     if not grade_folders:
         print("Không tìm thấy thư mục lớp nào (lop-2, lop-3, lop-4, lop-5)")

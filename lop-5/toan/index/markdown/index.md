@@ -1,75 +1,71 @@
-# 200 Đề thi Toán lớp 5 năm 2025 (có đáp án, mới nhất)
+# Mĩ thuật lớp 5 Cánh diều | Giải bài tập Mĩ thuật lớp 5 (hay, chi tiết)
 
 ﻿ 
 
-# 200 Đề thi Toán lớp 5 năm 2025 (có đáp án, mới nhất)
+# Mĩ thuật lớp 5 Cánh diều | Giải bài tập Mĩ thuật lớp 5 (hay, chi tiết)
 
 * * *
 
-Bộ Đề thi Toán lớp 5 có đáp án năm 2025 sách mới Kết nối tri thức, Chân trời sáng tạo, Cánh diều Học kì 1 & Học kì 2 cơ bản, nâng cao có đáp án được các Giáo viên nhiều năm kinh nghiệm biên soạn và sưu tầm từ đề thi của các trường Tiểu học trên cả nước. Hi vọng với bộ đề thi Toán lớp 5 này sẽ giúp Thầy/Cô có thêm tài liệu giúp học sinh ôn luyện và đạt được điểm cao trong các bài thi môn Toán lớp 5. Bộ đề thi Toán lớp 5 đầy đủ đề khảo sát chất lượng đầu năm, đề thi giữa kì, đề thi học kì 1, học kì 2, các phiếu bài tập, đề kiểm tra cuối tuần. Mời quí Thầy/Cô và các em học sinh tham khảo!
+Với lời giải bài tập Mĩ thuật lớp 5 Cánh diều hay nhất, chi tiết đầy đủ sẽ giúp học sinh dễ dàng làm bài tập Mĩ thuật lớp 5, từ đó đạt điểm cao trong các bài thi môn Mĩ thuật 5.
 
-## Đề thi Toán lớp 5 năm 2025 (có đáp án, mới nhất)
+## Giải Mĩ thuật lớp 5 Cánh diều (hay, chi tiết)
 
-Chỉ từ 150k mua trọn bộ đề thi Toán lớp 5 cả năm (mỗi bộ sách) theo cấu trúc mới bản word có lời giải chi tiết:
+**Chủ đề 1**. **Kỉ niệm mùa hè**
 
-### [**Đề thi Toán lớp 5 Kết nối tri thức**](https://vietjack.com/de-kiem-tra-toan-5/de-thi-toan-lop-5-ket-noi-tri-thuc.jsp)
+Bài 1: Kì nghỉ hè của em
 
-### [**Đề thi Toán lớp 5 Chân trời sáng tạo**](https://vietjack.com/de-kiem-tra-toan-5/de-thi-toan-lop-5-chan-troi-sang-tao.jsp)
+Bài 2: Phong cảnh mùa hè
 
-### [**Đề thi Toán lớp 5 Cánh diều**](https://vietjack.com/de-kiem-tra-toan-5/de-thi-toan-lop-5-canh-dieu.jsp)
+**Chủ đề 2**. **Bạn bè năm châu**
 
-* * *
+Bài 3: Khuôn mặt vui về
 
-### [**Bài tập cuối tuần Toán 5 (có đáp án)**](https://vietjack.com/de-kiem-tra-toan-5/bai-tap-cuoi-tuan-toan-lop-5.jsp)
+Bài 4: Em yêu hoà bình
 
-### [**Bài tập cuối tuần Toán lớp 5 Kết nối tri thức**](https://vietjack.com/de-kiem-tra-toan-5/bai-tap-cuoi-tuan-toan-lop-5-ket-noi.jsp)
+**Chủ đề 3**. **Quà kỉ niệm**
 
-### [**Bài tập cuối tuần Toán lớp 5 Chân trời sáng tạo**](https://vietjack.com/de-kiem-tra-toan-5/bai-tap-cuoi-tuan-toan-lop-5-chan-troi.jsp)
+Bài 5: Quà tặng bạn
 
-### [**Bài tập cuối tuần Toán lớp 5 Cánh diều**](https://vietjack.com/de-kiem-tra-toan-5/bai-tap-cuoi-tuan-toan-lop-5-canh-dieu.jsp)
+Bài 6: Hộp quà xinh xắn
 
-### [**Đề cương ôn tập Toán lớp 5**](https://vietjack.com/de-kiem-tra-toan-5/de-cuong-on-tap-toan-lop-5.jsp)
+**Chủ đề 4**. **Lễ hội bốn phương**
 
-### [**Đề cương ôn tập Toán lớp 5 Kết nối tri thức**](https://vietjack.com/de-kiem-tra-toan-5/de-cuong-toan-lop-5-ket-noi-tri-thuc.jsp)
+Bài 7: Mặt nạ trung thu
 
-### [**Đề cương ôn tập Toán lớp 5 Chân trời sáng tạo**](https://vietjack.com/de-kiem-tra-toan-5/de-cuong-toan-lop-5-chan-troi-sang-tao.jsp)
+Bài 8: Lễ hội hóa trang
 
-### [**Đề cương ôn tập Toán lớp 5 Cánh diều**](https://vietjack.com/de-kiem-tra-toan-5/de-cuong-toan-lop-5-canh-dieu.jsp)
+Bài ôn tập: Cùng nhau ôn tập học kì 1
 
-### **Ôn hè Toán lớp 5 lên 6**
+**Chủ đề 5. Đại dương xanh**
 
-### [**Bộ đề thi vào lớp 6 môn Toán**](https://vietjack.com/tai-lieu-mon-toan/bo-de-thi-vao-lop-6-mon-toan.jsp)
+Bài 9: Sinh vật biển
 
-### [**Các dạng Toán ôn thi vào lớp 6 chọn lọc**](https://vietjack.com/tai-lieu-mon-toan/cac-dang-toan-on-thi-vao-lop-6.jsp)
+Bài 10: Bảo vệ môi trường biển
 
-* * *
+Bài 11: Bộ đội hải quân
 
-* * *
+**Chủ đề 6**. **Câu chuyện em yêu thích**
 
-* * *
+Bài 12: Nhân vật truyện em yêu thích
 
-**Lưu trữ: Đề thi Toán lớp 5 (sách cũ)**
+Bài 13: Câu chuyện của em
 
-____**Hiển thị nội dung**
+**Chủ đề 7**. **Học mĩ thuật vui**
 
-### **Đề thi Toán 5 Giữa kì 1**
+Bài 14. Vui học cùng danh họa
 
-### **Đề thi Toán 5 Cuối Học kì 1**
+Bài 15. Em làm nhà sưu tập mĩ thuật
 
-### **Đề thi Toán 5 Giữa kì 2**
+Bài ôn tập: Cùng nhau ôn tập học kì 2.
 
-### **Đề thi Toán 5 Cuối Học kì 2**
+Nội dung đang được cập nhật ....
 
-**Đề thi Toán 5 tổng hợp:**
-
-Tài liệu Giáo án, Đề thi lớp 5 có đáp án hay khác:
+Xem thêm đề thi, giáo án lớp 5 các môn học hay khác:
 
 * * *
 
 [__Trang trước](https://vietjack.com/index.jsp)
 
-[Trang sau __](https://vietjack.com/de-kiem-tra-toan-5/de-kiem-tra-toan-5-giua-ki-1.jsp)
+[Trang sau __](https://vietjack.com/mi-thuat-5-cd/index.jsp)
 
 * * *
-
-Đề thi, giáo án lớp 5 các môn học

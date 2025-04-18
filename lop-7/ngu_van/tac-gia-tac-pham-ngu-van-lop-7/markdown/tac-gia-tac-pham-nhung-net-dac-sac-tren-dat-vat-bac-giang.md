@@ -1,0 +1,101 @@
+# Những nét đặc sắc trên đất vật Bắc Giang - Tác giả tác phẩm (mới 2025) - Ngữ văn lớp 7 Cánh diều
+
+# Những nét đặc sắc trên đất vật Bắc Giang - Tác giả tác phẩm (mới 2025) - Ngữ văn lớp 7 Cánh diều
+
+Với tác giả, tác phẩm Những nét đặc sắc trên “đất vật” Bắc Giang Ngữ văn lớp 7 Cánh diều hay nhất, chi tiết trình bày đầy đủ nội dung chính quan trọng nhất về tác phẩm Những nét đặc sắc trên “đất vật” Bắc Giang gồm bố cục, tóm tắt, nội dung chính, giá trị nội dung, giá trị nghệ thuật dàn ý.
+
+## Tác giả - tác phẩm: Những nét đặc sắc trên “đất vật” Bắc Giang - Ngữ văn lớp 7 Cánh diều
+
+Quảng cáo
+
+### **I. Tìm hiểu tác phẩm Những nét đặc sắc trên “đất vật” Bắc Giang**
+
+**1\. Thể loại:** văn bản thông tin
+
+**2\. Xuất xứ**
+
+![Những nét đặc sắc trên đất vật Bắc Giang - Tác giả tác phẩm \(mới 2025\) | Ngữ văn lớp 7 Cánh diều](https://vietjack.com/soan-van-lop-7-cd/images/tac-gia-tac-pham-nhung-net-dac-sac-tren-dat-vat-bac-giang-111.PNG)
+
+\- Theo PHÍ TRƯỜNG GIANG – _dulichbacgiang.gov.vn_
+
+**3\. Phương thức biểu đạt :** Nghị luận
+
+**4\. Tóm tắt:** Văn bản trình bày các quy định, nghi thức của “keo vật thờ” ở hội vật Bắc Giang. Ý nghĩa truyền thống sâu sắc của hội vật dân tộc.
+
+**5\. Bố cục:**
+
+Chia văn bản thành 2 đoạn:
+
+\- Đoạn 1: Từ đầu đến “trên thế gian này”: Ý nghĩa của sới vật ở Bắc Giang
+
+\- Đoạn 2: Còn lại: Các quy định, nghi thức, ý nghĩa của “keo vật thờ”
+
+**6\. Giá trị nội dung:**
+
+\- Văn bản đã trình bày những nét đặc trưng riêng biệt và ý nghĩa sâu sắc của hội vật ở Bắc Giang
+
+\- Thể hiện sự tự hào về phong tục văn hóa truyền thống đa dạng của đất nước Việt Nam
+
+**7\. Giá trị nghệ thuật:**
+
+\- Bố cục văn bản mạch lạc, rõ ràng, dễ hiểu.
+
+\- Nội dung cô đọng, ngắn gọn.
+
+\- Ngôn từ trong sáng, giản dị.
+
+Quảng cáo
+
+### **II. Tìm hiểu chi tiết tác phẩm Những nét đặc sắc trên “đất vật” Bắc Giang**
+
+**1\. Ý nghĩa của “sới vật” ở Bắc Giang**
+
+Sới vật hình tròn được đặt giữa sân đình hình vuông thể hiện quan niệm của dân gian vuông biểu hiện cho đất, tròn biểu hiện cho trời (trời tròn, đất vuông). Mặt khác, tròn là Mặt Trời, các đô vật thường là nam, biểu hiện cho tính dương. Thông qua đấu vật người ta mong dương vượng để có “mưa thuân gió hòa, mùa màng tươi tốt, bội thu”.
+
+**2\. Các quy định, nghi thức của “keo vật thờ”**
+
+_\- Lựa chọn đô vật:_
+
+\+ Đô vật phải là đô vật có tiếng trong vùng, được đông đảo công chúng ghi nhận về tài năng đấu vật. 
+
+\+ Ngoài ra, đô vật đó phải có tài năng đức độ, có bề dày thời gian cống hiến công lao cho phong trào vật trong vùng.
+
+_\- Nghi lễ bái tổ:_
+
+\+ Mở đầu hội vật, hai Đô thực hiện keo vật thờ được giới thiệu rất trang trọng về tên tuổi, địa chỉ, thành tích đã đạt được, những sở trường trong thi đấu… 
+
+\+ Khi tiếng trống chầu vang lên, hai Đô vật “mình trần đóng khố,” chân quỳ vai sánh, hai tay chắp sườn. Hiệu lệnh của trống chầu tiếp tục điểm, hai đô đứng vươn thẳng, hai tay vẫn chắp sườn nghênh diện. Tiếng trống chầu điểm lần thứ ba, họ chắp tay đồng thời khom lưng “bái tổ” theo thế 3 bước tiến lên, 3 bước lùi xuống. 
+
+_\- Nghi thức “xe đài”:_
+
+\+ Nghi thức “xe đài” ở Bắc Giang đó là những tư thế “đại bàng tung cánh, sư tử vờn cầu”, hay hiền hòa và uốn lượn như “dòng sông Cầu nước chảy lơ thơ”, “dòng sông Thương nước chảy đôi dòng”.
+
+\- Diễn biến keo vật thờ: 
+
+\+ N hững miếng đánh trong keo vật thờ được thể hiện rất chậm, người xem cảm nhận được như từng nhịp thở: Đâu là miếng bốc, đâu là miếng gồng; hay bất chợt đây là miếng mói, đó là miếng sườn … 
+
+\+ Tất cả được 2 Đô biểu diễn nhịp nhàng và đẹp mắt. Cái hay của keo vật thờ chính là ở chỗ có thể giới thiệu cho người xem hiểu được phương pháp tấn công và thủ pháp chống đỡ để rồi phản công. 
+
+\+ Lệ của keo vật thờ thật là khéo léo, khi kết thúc keo vật cả 2 Đô cùng phải thua “lấm lưng trắng bụng”. 
+
+**3\. Ý nghĩa hội vật ở Bắc Giang**
+
+\- Keo vật thờ là trận đấu mở đầu hội vật, chỉ mang tính nghi lễ, diễn ra đẹp mắt, vui vẻ 
+
+\- 2 Đô biểu diễn nhịp nhàng và đẹp mắt nhằm giới thiệu cho người xem hiểu được phương pháp tấn công và thủ pháp chống đỡ để rồi phản công. 
+
+\- Hội vật thể hiện truyền thống văn hóa và tôn vinh tinh thần thượng võ từ ngàn đời của dân tộc. 
+
+Quảng cáo
+
+### **Học tốt bài Những nét đặc sắc trên “đất vật” Bắc Giang**
+
+Các bài học giúp bạn để học tốt bài Những nét đặc sắc trên “đất vật” Bắc Giang Ngữ văn lớp 7 hay khác:
+
+Xem thêm tóm tắt tác giả - tác phẩm Ngữ Văn lớp 7 Cánh diều hay, chi tiết khác:
+
+Xem thêm các tài liệu học tốt lớp 7 hay khác:
+
+* * *
+
+Giải bài tập lớp 7 Cánh diều khác

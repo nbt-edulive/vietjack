@@ -1,187 +1,188 @@
-# Vở bài tập Toán lớp 5 Kết nối tri thức Bài 44: Luyện tập chung
+# Vở bài tập Toán lớp 5 trang 55 (Tập 1, Tập 2 sách mới)
 
-# Vở bài tập Toán lớp 5 Kết nối tri thức Bài 44: Luyện tập chung
+﻿
 
-Với giải vở bài tập Toán lớp 5 Bài 44: Luyện tập chung sách Kết nối tri thức hay nhất, chi tiết sẽ giúp học sinh dễ dàng làm bài tập về nhà trong vở bài tập Toán lớp 5 Tập 2.
+  * [Lớp 5](https://vietjack.com/series/lop-5.jsp)
+  * [Giải vở bài tập Toán 5](https://vietjack.com/giai-vo-bai-tap-toan-5/index.jsp)
 
-## Giải vở bài tập Toán lớp 5 Kết nối tri thức Bài 44: Luyện tập chung
 
-Quảng cáo
 
-### [**Vở bài tập Toán lớp 5 trang 24 Bài 44 Tiết 1**](https://vietjack.com/vbt-toan-5-kn/bai-44-tiet-1-trang-24-tap-2.jsp)
-
-[**Vở bài tập Toán lớp 5 trang 24 Tập 2**](https://vietjack.com/vbt-toan-5-kn/vbt-toan-lop-5-trang-24-tap-2.jsp)
-
-**Bài****1****trang****24****VBT Toán lớp 5 Tập 2:** Viết tỉ số phần trăm thích hợp với các phân số cho trước (theo mẫu).
-
-Mẫu: 25 = 40%
-
-1920; 310; 51100
-
-**Lời giải**
-
-1920 = 0,95 = 95%
-
-310 = 0,3 = 30%
-
-**Bài****2****trang****24****VBT Toán lớp 5 Tập 2:** Hoàn thành bảng sau.
-
-Tỉ lệ bản đồ | 1 : 400 | 1 : 100 000 | 1 : 7 000 | 1 : 20 000  
----|---|---|---|---  
-Độ dài trên bản đồ (cm) | 3 |  | 1,8 |   
-Độ dài thật (km) |  | 3,8 |  | 10  
-  
-**Lời giải**
-
-Tỉ lệ bản đồ | 1 : 400 | 1 : 100 000 | 1 : 7 000 | 1 : 20 000  
----|---|---|---|---  
-Độ dài trên bản đồ (cm) | 3 | 3,8  | 1,8 | 50  
-Độ dài thật (km) | 0,012 | 3,8 | 0,126  | 10  
-  
-Quảng cáo
-
-**Giải thích:**
-
-3 × 400 = 1 200 (cm) | Đổi 3,8 km = 380 000 cm  
----|---  
-Đổi 1 200 cm = 0, 012 km | 380 000 : 100 000 = 3,8 (cm)  
-1,8 × 7 000 = 12 600 (cm) | Đổi 10 km = 1 000 000 (cm)  
-Đổi 12 600 cm = 0,126 km | 1 000 000 : 20 000 = 50 (cm)  
-  
-**Bài****3****trang****24****VBT Toán lớp 5 Tập 2:** Mẹ cho hai chị em Mai và Mi tất cả 105 cái kẹo. Vì Mi giúp mẹ lau nhà nên mẹ chia cho Mi số kẹo bằng 32 số kẹo chia cho Mai. Tính số kẹo mà mẹ chia cho mỗi chị em.
-
-**Lời giải**
-
-Tổng số phần bằng nhau là:
-
-3 + 2 = 5 (phần)
-
-Số kẹo của Mai là:
-
-105 : 5 × 2 = 42 (cái)
-
-Số kẹo của Mi là:
-
-105 – 42 = 63 (cái)
-
-Đáp số: Mai có 42 cái kẹo
-
-Mi có 63 cái kẹo
-
-Quảng cáo
-
-**Bài****4****trang****24****VBT Toán lớp 5 Tập 2:** Năm ngoái, tổng lượt khách du lịch tới địa phương A là 250 000 lượt. Năm nay, tổng lượt khách du lịch tới địa phương A tăng thêm 5%.
-
-a) Tính số lượt khách du lịch tăng thêm.
-
-b) Tính số lượt khách du lịch năm nay tới địa phương A.
-
-**Lời giải**
-
-a) Số lượt khách du lịch tăng thêm là:
-
-250 000 × 5% = 12 500 (lượt)
-
-b) Số lượt khách du lịch năm nay tới địa phương A là:
-
-250 000 + 12 500 = 262 500 (lượt)
-
-Đáp số: a) 12 500 lượt
-
-b) 262 500 lượt
-
-### [**Vở bài tập Toán lớp 5 trang 25 Bài 44 Tiết 2**](https://vietjack.com/vbt-toan-5-kn/bai-44-tiet-2-trang-25-tap-2.jsp)
-
-[**Vở bài tập Toán lớp 5 trang 25 Tập 2**](https://vietjack.com/vbt-toan-5-kn/vbt-toan-lop-5-trang-25-tap-2.jsp)
-
-**Bài****1****trang****25****VBT Toán lớp 5 Tập 2:** Viết tiếp vào chỗ chấm cho thích hợp.
-
-a) Tỉ số phần trăm của 51 và 60 là ……
-
-b) Tỉ số phần trăm của 19,5 và 78 là ……
-
-Quảng cáo
-
-**Lời giải**
-
-a) 51 : 60 = 0,85 = 85%
-
-Tỉ số phần trăm của 51 và 60 là 85%.
-
-b) 19,5 : 78 = 0,25 = 25%
-
-Tỉ số phần trăm của 19,5 và 78 là 25%.
-
-**Bài****2****trang****25****VBT Toán lớp 5 Tập 2:** Viết số thích hợp vào chỗ chấm.
-
-a) 40% của 70 là ……
-
-c) 7% của 3 100 là ……
-
-b) 12% của 350 là ……
-
-d) 19% của 510 là ……
-
-**Lời giải**
-
-a) 40% của 70 là 28
-
-c) 7% của 3 100 là 217
-
-b) 12% của 350 là 42
-
-d) 19% của 510 là 96,9
-
-**Bài****3****trang****25****VBT Toán lớp 5 Tập 2:** Sử dụng máy tính cầm tay để tính giá trị của các biểu thức rồi viết kết quả vào chỗ chấm.
-
-a) 1 772 + 83 × 17 = …….
-
-b) 450 : 15 – 11 = …….
-
-**Lời giải**
-
-a) 1 772 + 83 × 17 = 3 183
-
-b) 450 : 15 – 11 = 19
-
-**Bài****4****trang****25****VBT Toán lớp 5 Tập 2:** Theo kế hoạch, nhóm công nhân phải làm được con đường dài 17 km trong một tháng. Tuy nhiên, khi đến giữa tháng, nhóm mới chỉ làm được một đoạn đường dài bằng 40% độ dài con đường cần phải làm. Hỏi nhóm công nhân đã làm được đoạn đường dài bao nhiêu ki-lô-mét?
-
-**Lời giải**
-
-Đoạn đường làm được dài số ki-lô-mét là:
-
-17 × 40% = 6,8 (km)
-
-Đáp số: 6,8 km.
-
-**Bài****5****trang****25****VBT Toán lớp 5 Tập 2:** Viết tiếp vào chỗ chấm cho thích hợp.
-
-Một mặt bàn dạng hình chữ nhật có chiều dài hơn chiều rộng 30 cm và chiều dài bằng 52 chiều rộng. Diện tích mặt bàn đó là ………
-
-**Lời giải**
-
-Hiệu số phần bằng nhau là:
-
-5 – 2 = 3 (phần)
-
-Chiều rộng của mặt bàn là:
-
-30 : 3 × 2 = 20 (cm)
-
-Chiều dài của mặt bàn là:
-
-20 + 30 = 50 (cm)
-
-Diện tích mặt bàn là:
-
-50 × 20 = 1 000 (cm²)
-
-Một mặt bàn dạng hình chữ nhật có chiều dài hơn chiều rộng 30 cm và chiều dài bằng 52 chiều rộng. Diện tích mặt bàn đó là 1 000 (cm²)
-
-Xem thêm các bài giải vở bài tập Toán lớp 5 Kết nối tri thức hay, chi tiết khác:
-
-Xem thêm các tài liệu học tốt lớp 5 hay khác:
+# Vở bài tập Toán lớp 5 trang 55 (Tập 1, Tập 2 sách mới)
 
 * * *
 
-Giải bài tập lớp 5 Kết nối tri thức khác
+[__Trang trước](https://vietjack.com/giai-vo-bai-tap-toan-5/bai-43-viet-cac-so-do-dien-tich-duoi-dang-so-thap-phan.jsp)
+
+[Trang sau __](https://vietjack.com/giai-vo-bai-tap-toan-5/bai-45-luyen-tap-chung.jsp)
+
+* * *
+
+Với giải vở bài tập Toán lớp 5 trang 55 Tập 1 & Tập 2 sách mới Kết nối tri thức, Chân trời sáng tạo, Cánh diều hay, chi tiết sẽ giúp học sinh lớp 5 biết cách làm bài tập trong VBT Toán lớp 5 trang 55.
+
+## Vở bài tập Toán lớp 5 trang 55 (Tập 1, Tập 2 sách mới)
+
+Quảng cáo
+
+### Vở bài tập Toán lớp 5 trang 55 Tập 1
+
+### Vở bài tập Toán lớp 5 trang 55 Tập 2
+
+* * *
+
+* * *
+
+* * *
+
+**Lưu trữ: Giải Vở bài tập Toán lớp 5 trang 55, 56 Bài 44: Luyện tập chung (sách cũ)**
+
+**Giải Vở bài tập Toán lớp 5 trang 55, 56 Bài 44: Luyện tập chung - Cô Nguyễn Lan (Giáo viên VietJack)**
+
+[**Vở bài tập Toán lớp 5 trang 55 Bài 1:** Nối (theo mẫu): ](https://vietjack.com/giai-vo-bai-tap-toan-5/bai-1-trang-55-vbt-toan-5-tap-1.jsp)
+
+![Vở bài tập Toán lớp 5 Tập 1 trang 55, 56 Bài 44: Luyện tập chung](https://vietjack.com/giai-vo-bai-tap-toan-5/images/bai-1-trang-55-vbt-toan-5-tap-1.PNG) ____**Phương pháp giải**
+
+Xác định mối liên hệ giữa các đơn vị đo độ dài để viết các số đo dưới dạng phân số hoặc hỗn số thích hợp, sau đó viết dưới dạng số thập phân.
+
+**Lời giải:**
+
+Ta có :
+
++) 9km 370m = 9km + 370m 
+
+= 9000m + 370m = 9370m ;
+
++) 9,037km = 9371000km 
+
+= 9km 37m = 9037m ;
+
++) 90,37km = 9037100km 
+
+= 903701000km = 90km 370m = 90 370m ;
+
++) 482dm = 480dm + 2dm = 48m 2dm 
+
+= 48210m = 48,2m.
+
++) 482mm = 4821000m = 0,482m 
+
+Vậy ta có kết quả như sau :
+
+![Vở bài tập Toán lớp 5 Tập 1 trang 55, 56 Bài 44: Luyện tập chung](https://vietjack.com/giai-vo-bai-tap-toan-5/images/bai-1-trang-55-vbt-toan-5-tap-1-1.PNG)
+
+[**Vở bài tập Toán lớp 5 trang 55 Bài 2:** Viết số thích hợp vào chỗ chấm: ](https://vietjack.com/giai-vo-bai-tap-toan-5/bai-2-trang-55-vbt-toan-5-tap-1.jsp)
+
+a) 32, 47 tấn = ……… tạ = ………kg
+
+b) 0,9 tấn = ……… tạ = ………kg
+
+c) 780kg = ………tạ = ………tấn
+
+d) 78 kg = ………tạ = ……… tấn
+
+____**Phương pháp giải**
+
+Áp dụng cách đổi: 
+
+1 tấn = 10 tạ
+
+1 tạ = 100 kg
+
+**Lời giải:**
+
+Quảng cáo
+
+a) 32, 47 tấn = 324,7 tạ 
+
+= 3247 yến= 32470kg
+
+b) 0,9 tấn = 9 tạ = 90 yến = 900kg
+
+c) 780kg= 78 yến = 7,8 tạ = 0,78 tấn
+
+d) 78 kg = 7,8 yến = 0,78 tạ = 0,078 tấn
+
+[**Vở bài tập Toán lớp 5 trang 55 Bài 3:** Viết số thích hợp vào chỗ chấm: ](https://vietjack.com/giai-vo-bai-tap-toan-5/bai-3-trang-55-vbt-toan-5-tap-1.jsp)
+
+a) 7,3m = ………dm 7,3m2 = ………dm2
+
+34,34m= ………cm 34,34m2 = ………cm2
+
+8,02km = ………m 8,02km2= ………m2
+
+b) 0,7km2 = ………ha 0,7km2= ………m2
+
+0,25ha = ………m2 7,71ha= ………m2
+
+____**Phương pháp giải**
+
+Áp dụng cách chuyển đổi các đơn vị đo độ dài và đơn vị đo diện tích rồi viết số thích hợp vào chỗ chấm.
+
+**Lời giải:**
+
+a) 7,3m = 73dm 7,3m2 = 730dm2
+
+34,34m = 3434cm 34,34m2 = 343400cm2
+
+8,02km = 8020m 8,02km2=8020000m2
+
+b) 0,7km2 = 70ha 0,7km2= 700m2
+
+0,25ha = 2500m2 7,71ha=77100m2
+
+Quảng cáo
+
+[**Vở bài tập Toán lớp 5 trang 56 Bài 4:** Nửa chu vi của một khu vườn hình chữ nhật là 0,55km. Chiều rộng bằng 56 chiều dài. Tính diện tích khu vườn đó bằng mét vuông, bằng hecta.](https://vietjack.com/giai-vo-bai-tap-toan-5/bai-4-trang-56-vbt-toan-5-tap-1.jsp)
+
+Tóm tắt
+
+![Vở bài tập Toán lớp 5 Tập 1 trang 55, 56 Bài 44: Luyện tập chung](https://vietjack.com/giai-vo-bai-tap-toan-5/images/2022-bai-4-trang-56-vbt-toan-5-tap-1-sua2022.PNG) ____**Phương pháp giải**
+
+\- Đổi : 0,55km = 550m
+
+\- Tìm chiều dài, chiều rộng theo bài toán tìm hai số khi biết tổng và tỉ số của hai số đó.
+
+\- Tìm diện tich = chiều dài × chiều rộng.
+
+**Lời giải:**
+
+Đổi : 0,55km = 550m.
+
+Ta có sơ đồ : 
+
+Theo sơ đồ, tổng số phần bằng nhau là:
+
+5 + 6 = 11 (phần)
+
+Chiều rộng của hình chữ nhật là:
+
+550 : 11 × 5 = 250 (m)
+
+Chiều dài hình chữ nhật là:
+
+550 – 250 = 300 (m)
+
+Diện tích hình chữ nhật là:
+
+250 × 300 = 75000 (m2) 
+
+75000m2 = 7,5ha
+
+Đáp số: 75000m2 ; 7,5ha.
+
+Quảng cáo
+
+Xem thêm các bài giải vở bài tập Toán lớp 5 hay, chi tiết khác:
+
+**Xem thêm các bài Để học tốt Toán lớp 5 hay khác:**
+
+* * *
+
+[__Trang trước](https://vietjack.com/giai-vo-bai-tap-toan-5/bai-43-viet-cac-so-do-dien-tich-duoi-dang-so-thap-phan.jsp)
+
+[Trang sau __](https://vietjack.com/giai-vo-bai-tap-toan-5/bai-45-luyen-tap-chung.jsp)
+
+* * *
+
+* * *
+
+Giải bài tập lớp 5 sách mới các môn học

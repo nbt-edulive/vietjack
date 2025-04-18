@@ -1,224 +1,266 @@
-# Vở bài tập Toán lớp 5 Kết nối tri thức Bài 62: Luyện tập chung
+# Vở bài tập Toán lớp 5 trang 77 (Tập 1, Tập 2 sách mới)
 
-# Vở bài tập Toán lớp 5 Kết nối tri thức Bài 62: Luyện tập chung
+﻿
 
-Với giải vở bài tập Toán lớp 5 Bài 62: Luyện tập chung sách Kết nối tri thức hay nhất, chi tiết sẽ giúp học sinh dễ dàng làm bài tập về nhà trong vở bài tập Toán lớp 5 Tập 2.
+  * [Lớp 5](https://vietjack.com/series/lop-5.jsp)
+  * [Giải vở bài tập Toán 5](https://vietjack.com/giai-vo-bai-tap-toan-5/index.jsp)
 
-## Giải vở bài tập Toán lớp 5 Kết nối tri thức Bài 62: Luyện tập chung
 
-Quảng cáo
 
-### [**Vở bài tập Toán lớp 5 trang 78 Bài 62 Tiết 1**](https://vietjack.com/vbt-toan-5-kn/bai-62-tiet-1-trang-78-tap-2.jsp)
-
-[**Vở bài tập Toán lớp 5 trang 78 Tập 2**](https://vietjack.com/vbt-toan-5-kn/vbt-toan-lop-5-trang-78-tap-2.jsp)
-
-**Bài 1 trang 78 VBT Toán lớp 5 Tập 2:** Tính.
-
-15 phút 20 giây + 5 phút 45 giây = …………………………………
-
-8 giờ 35 phút – 2 giờ 15 phút = ………………………………………
-
-3 tuần 4 ngày x 5 = …………………………………………………..
-
-10 năm 8 tháng : 2 = …………………………………………………
-
-**Lời giải**
-
-15 phút 20 giây + 5 phút 45 giây = 20 phút 65 giây = 21 phút 5 giây
-
-8 giờ 35 phút – 2 giờ 15 phút = 6 giờ 20 phút
-
-3 tuần 4 ngày × 5 = 15 tuần 20 ngày = 17 tuần 6 ngày
-
-10 năm 8 tháng : 2 = 5 năm 4 tháng
-
-**Bài 2 trang 78 VBT Toán lớp 5 Tập 2:** Viết số thích hợp vào chỗ chấm.
-
-a) 120 km/h = ……………. m/s
-
-b) 36 000 km/h = …………… km/s
-
-Quảng cáo
-
-**Lời giải**
-
-a) 120 km/h = 120 000 : 3 600 = 33,3 m/s
-
-b) 36 000 km/h = 36 000 : 3 600 = 10 km/s
-
-**Bài 3 trang 78 VBT Toán lớp 5 Tập 2:** Trong một cuộc thi chạy ở Bắc Âu, thần gió chạy với vận tốc 70 m/s Hỏi sau khi xuất phát được 1 phút, thần gió còn cách đích bao nhiêu mét, biết đường đua dài 7 km?
-
-**Lời giải**
-
-Đổi: 1 phút = 60 giây
-
-7 km = 7 000 m
-
-Thần gió đã chạy được số mét là:
-
-70 x 60 = 4200 (m)
-
-Thần gió còn cách đích số mét là:
-
-7 000 – 4200 = 2 800 (m)
-
-Đáp số: 2 800 m
-
-**Bài 4 trang 78 VBT Toán lớp 5 Tập 2:** Khoanh vào chữ đặt trước câu trả lời đúng.
-
-Quảng cáo
-
-Một người đạp xe trên quốc lộ 1A đi qua tỉnh Ninh Bình với vận tốc 17 km/h. Biết đoạn đường quốc lộ 1A qua tỉnh Ninh Bình dài 34 km. Hỏi mất bao lâu để người đó đi hết đoạn đường quốc lộ 1A qua tỉnh Ninh Bình? 
-
-A. 2 giờ | B. 3 giờ | C. 45 phút  
----|---|---  
-  
-**Lời giải**
-
-**Đáp án đúng là: A**
-
-Người đó đi hết đoạn đường quốc lộ 1A qua tỉnh Ninh Bình mất số thời gian là:
-
-34 : 17 = 2 (giờ)
-
-Đáp số: 2 giờ
-
-### [**Vở bài tập Toán lớp 5 trang 79 Bài 62 Tiết 2**](https://vietjack.com/vbt-toan-5-kn/bai-62-tiet-2-trang-79-tap-2.jsp)
-
-[**Vở bài tập Toán lớp 5 trang 79 Tập 2**](https://vietjack.com/vbt-toan-5-kn/vbt-toan-lop-5-trang-79-tap-2.jsp)
-
-**Bài 1 trang 79 VBT Toán lớp 5 Tập 2:** Một chiếc xe kéo máy bay đi được 1,5 km trong 15 phút. Tính vận tốc của chiếc xe kéo máy bay đó theo đơn vị km/h. 
-
-**Lời giải**
-
-Đổi: 15 phút = 0,25 giờ
-
-Vận tốc của chiếc xe kéo máy bay là:
-
-1,5 : 0,25 = 6 (km/h)
-
-Đáp số: 6 km/h
-
-Quảng cáo
-
-**Bài 2 trang 79 VBT Toán lớp 5 Tập 2:** Viết số thích hợp vào chỗ chấm. 
-
-Lúc 4 giờ sáng, một chiếc xe lội nước bắt đầu khởi hành. Chiếc xe đó đi quãng đường dài 28 km với vận tốc 56 km/h. Sau đó xe lội qua một khúc sông với thời gian là 25 phút thì đến đích. 
-
-Vậy xe đến đích lúc ...... giờ ..... phút.
-
-**Lời giải**
-
-Chiếc xe đi quãng đường dài 28 km hết số thời gian là:
-
-28 : 56 = 0,5 (giờ)
-
-Đổi: 0,5 giờ = 30 phút
-
-Đồng hồ chỉ thời gian khi xe đi hết 28 km là:
-
-4 giờ + 30 phút = 4 giờ 30 phút
-
-Xe đến đích vào thời gian là:
-
-4 giờ 30 phút + 25 phút = 4 giờ 55 phút
-
-Vậy xe đến đích lúc 4 giờ 55 phút.
-
-**Bài 3 trang 79 VBT Toán lớp 5 Tập 2:** Khoanh vào chữ đặt trước câu trả lời đúng. 
-
-Ngôn ngữ lập trình đầu tiên ra đời vào năm 1883. Hỏi ngôn ngữ lập trình đó ra đời vào thế kỉ nào? 
-
-A. Thế kỉ XIII B. Thế kỉ XIX C. Thế kỉ XX D. Thế kỉ XXI
-
-**Lời giải**
-
-**Đáp án đúng là: B**
-
-Ngôn ngữ lập trình ra đời vào thể kỉ XIX.
-
-**Bài 4 trang 79 VBT Toán lớp 5 Tập 2:** Chú Năm dự định đi 2 000 km từ Hải Phòng đến Men-đơ-lây (Mandalay) ở Mi-an-ma (Myanmar) dọc theo tuyến đường AH14 (đường xuyên Á 14). Nếu mỗi ngày chú Năm đi khoảng 8 giờ với vận tốc trung bình 50 km/h thì chú ấy cần bao nhiêu ngày để đến nơi? 
-
-**Lời giải**
-
-Một ngày chú Năm đi được số ki-lô-mét là:
-
-50 x 8 = 400 (km)
-
-Số ngày chú Năm cần đi là:
-
-2 000 : 400 = 5 (ngày)
-
-Đáp số: 5 ngày
-
-### [**Vở bài tập Toán lớp 5 trang 80 Bài 62 Tiết 3**](https://vietjack.com/vbt-toan-5-kn/bai-62-tiet-3-trang-80-tap-2.jsp)
-
-[**Vở bài tập Toán lớp 5 trang 80 Tập 2**](https://vietjack.com/vbt-toan-5-kn/vbt-toan-lop-5-trang-80-tap-2.jsp)
-
-**Bài 1 trang 80 VBT Toán lớp 5 Tập 2:** Khoanh vào chữ đặt trước câu trả lời đúng. 
-
-Chú ngựa gỗ quay một vòng tròn có bán kính là 20 m. Biết chú ngựa quay với vận tốc là 3,1 m/s. Hỏi chủ ngựa gỗ đó quay một vòng hết bao lâu ?
-
-A. Gần nửa phút B. Đúng nửa phút C. Hơn nửa phút
-
-**Lời giải**
-
-**Đáp án đúng là: C**
-
-Độ dài của vòng tròn là:
-
-3,14 × 20 × 2 = 125,6 (m)
-
-Thời gian để chú ngựa gỗ quay một vòng là:
-
-125,6 : 3,1 = 40,5 (giây)
-
-Đáp số: 40,5 giây
-
-**Bài 2 trang 80 VBT Toán lớp 5 Tập 2:** Một nhà bác học làm thí nghiệm đo vận tốc âm thanh. Nhà bác học dùng kính viễn vọng để quan sát một người nổ súng và ánh đèn loé lên đồng thời từ một địa điểm cách xa 20,88 km. Sau khi thấy ánh sáng được một phút nhà bác học nghe thấy tiếng súng nổ. Hỏi nhà bác học tính ra được vận tốc âm thanh là bao nhiêu mét trên giây?
-
-![Vở bài tập Toán lớp 5 Kết nối tri thức Bài 62: Luyện tập chung](https://vietjack.com/vbt-toan-5-kn/images/bai-62-luyen-tap-chung-265686.PNG)
-
-**Lời giải**
-
-Đổi: 20,88 km = 20 880 m
-
-1 phút = 60 giây
-
-Vận tốc âm thanh nhà bác học tính ra được là:
-
-20 880 : 60 = 348 m/s
-
-Đáp số: 348 m/s
-
-**Bài 3 trang 80 VBT Toán lớp 5 Tập 2:** Một tiếng động truyền từ chiếc máy bay A qua không khí rồi qua nước biển để đến chiếc tàu ngầm C. Biết tiếng động truyền qua không khí trên quãng đường AB với vận tốc 346 m/s và truyền qua nước biển trên quãng đường BC với vận tốc 1 500 m/s. Khoảng cách AB và BC được cho như trong hình vẽ.
-
-![Vở bài tập Toán lớp 5 Kết nối tri thức Bài 62: Luyện tập chung](https://vietjack.com/vbt-toan-5-kn/images/bai-62-luyen-tap-chung-265687.PNG)
-
-Thời gian truyền đi của tiếng động tất cả là ……….
-
-**Lời giải**
-
-Thời gian truyền đi của tiếng động qua không khí là:
-
-5 190 : 346 = 15 (giây)
-
-Thời gian truyền đi của tiếng động qua nước biển là:
-
-300 : 1 500 = 0,2 (giây)
-
-Thời gian truyền đi của tiếng động tất cả là:
-
-15 + 0,2 = 15,2 (giây)
-
-Đáp số: 15,2 giây
-
-Thời gian truyền đi của tiếng động tất cả là 15,2 giây.
-
-Xem thêm các bài giải vở bài tập Toán lớp 5 Kết nối tri thức hay, chi tiết khác:
-
-Xem thêm các tài liệu học tốt lớp 5 hay khác:
+# Vở bài tập Toán lớp 5 trang 77 (Tập 1, Tập 2 sách mới)
 
 * * *
 
-Giải bài tập lớp 5 Kết nối tri thức khác
+[__Trang trước](https://vietjack.com/giai-vo-bai-tap-toan-5/bai-61-luyen-tap-chung.jsp)
+
+[Trang sau __](https://vietjack.com/giai-vo-bai-tap-toan-5/bai-63-chia-mot-so-thap-phan-voi-mot-so-tu-nhien.jsp)
+
+* * *
+
+Với giải vở bài tập Toán lớp 5 trang 77 Tập 1 & Tập 2 sách mới Kết nối tri thức, Chân trời sáng tạo, Cánh diều hay, chi tiết sẽ giúp học sinh lớp 5 biết cách làm bài tập trong VBT Toán lớp 5 trang 77.
+
+## Vở bài tập Toán lớp 5 trang 77 (Tập 1, Tập 2 sách mới)
+
+Quảng cáo
+
+### Vở bài tập Toán lớp 5 trang 77 Tập 1
+
+### Vở bài tập Toán lớp 5 trang 77 Tập 2
+
+* * *
+
+* * *
+
+* * *
+
+**Lưu trữ: Giải Vở bài tập Toán lớp 5 trang 76, 77, 78 Bài 62: Luyện tập chung (sách cũ)**
+
+**Giải Vở bài tập Toán lớp 5 trang 76, 77, 78 Bài 62: Luyện tập chung - Cô Nguyễn Lan (Giáo viên VietJack)**
+
+[**Vở bài tập Toán lớp 5 trang 76 Bài 1:** Tính: ](https://vietjack.com/giai-vo-bai-tap-toan-5/bai-1-trang-76-vbt-toan-5-tap-1.jsp)
+
+a, 654,72 + 306,5 – 541,02 = …………………
+
+b, 78,5 × 13,2 + 0,53 = ……………………
+
+c, 37,57 – 25,7 ×0,1 = ……………………
+
+____**Phương pháp giải**
+
+\- Biểu thức chỉ có phép cộng và phép trừ thì tính lần lượt từ trái sang phải.
+
+\- Biểu thức có các phép tính cộng, trừ, nhân, chia thì thực hiện phép nhân, chia trước, thực hiện phép cộng, trừ sau
+
+**Lời giải:**
+
+a, 654,72 + 306,5 – 541,02 
+
+= (654,72 + 306,5) – 541,02
+
+= 961,22 – 541,02 = 420,2
+
+b, 78,5 × 13,2 + 0,53 
+
+= 1036,2 + 0,53 = 1036,73
+
+c, 37,57 – 25,7 ×0,1 
+
+= 37,57 – 2,57 =35
+
+[**Vở bài tập Toán lớp 5 trang 77 Bài 2:** Tính bằn hai cách: ](https://vietjack.com/giai-vo-bai-tap-toan-5/bai-2-trang-77-vbt-toan-5-tap-1.jsp)
+
+a, (22,6 + 7,4) ×30,5
+
+b, (12, 03 – 2,03) × 5,4
+
+____**Phương pháp giải**
+
+Cách 1 : Áp dụng quy tắc tính giá trị biểu thức : Biểu thức có dấu ngoặc thì tình trong ngoặc trước, ngoài ngoặc sau.
+
+Cách 2 : Áp dụng các công thức : 
+
+(a + b) × c = a × c + b × c
+
+(a − b) × c = a × c − b × c
+
+**Lời giải:**
+
+a, (22,6 + 7,4) ×30,5
+
+* Cách 1:
+
+(22,6 + 7,4) × 30,5
+
+= 30 × 30,5
+
+= 915
+
+* Cách 2:
+
+(22,6 + 7,4) × 30,5
+
+= 22,6 × 30,5 + 7,4 × 30,5
+
+= 689,3 + 225,7
+
+= 915
+
+b, (12, 03 – 2,03) × 5,4
+
+Quảng cáo
+
+* Cách 1:
+
+(12,03 – 2,03) × 5,4
+
+= 10 × 5,4
+
+= 54
+
+* Cách 2:
+
+(12,03 – 2,03) × 5,4
+
+= 12,03 × 5,4 – 2,03 × 5,4
+
+= 64,962 – 10,962
+
+= 54
+
+[**Vở bài tập Toán lớp 5 trang 77 Bài 3:** Mua 2l mật ong phải trả 460 000 đồng. Hỏi mua 4,5l mật ong cùng loại phải trả nhiều hơn bao nhiêu tiền?](https://vietjack.com/giai-vo-bai-tap-toan-5/bai-3-trang-77-vbt-toan-5-tap-1.jsp)
+
+____**Phương pháp giải**
+
+\- Số tiền khi mua 1l mật ong = số tiền mua 2l mật ong :2.
+
+\- Số tiền khi mua 4,5l mật ong = số tiền mua 1l mật ong ×4,5.
+
+\- Số tiền phải trả nhiều hơn = Số tiền khi mua 4,5l mật ong − số tiền mua 2l mật ong.
+
+**Lời giải:**
+
+Số tiền phải trả để mua 1 lít mật ong là:
+
+460000 : 2 = 230000 (đồng)
+
+Số tiền phải trả cho 4,5 lít mật ong:
+
+230000 × 4,5 = 1035000 (đồng)
+
+Số tiền phải trả nhiều hơn:
+
+1035000 – 460000 = 575000 (đồng)
+
+Đáp số: 575000 đồng
+
+[**Vở bài tập Toán lớp 5 trang 77 Bài 4:** Tính nhẩm kết quả tìm x: ](https://vietjack.com/giai-vo-bai-tap-toan-5/bai-4-trang-77-vbt-toan-5-tap-1.jsp)
+
+a, 8,7 × x = 8,7
+
+x = ……………………
+
+Quảng cáo
+
+b, 4,3 × x = 3,8 × 4,3
+
+x = ……………………
+
+c) 6,9 × x = 69
+
+x = ……………………
+
+d) 7,3 × x + 2,7 × x = 10
+
+x = ……………………
+
+____**Phương pháp giải**
+
+Áp dụng các tính chất của phép nhân các số thập phân:
+
+\- Tính chất giao hoán: Khi đổi chỗ hai số hạng trong một tích thì tích không thay đổi:
+
+a × b=b x a
+
+\- Tính chất nhân với 11: Một số nhân với 11 thì bằng chính nó: 
+
+a × 1 = a
+
+\- Nhân một số với một tổng:
+
+a × b + a × c = a × (b + c)
+
+\- Khi nhân một số thập phân với 10 ta chỉ việc dịch chuyển dấu phẩy của số đó sang bên phải 1 hàng.
+
+**Lời giải:**
+
+a, 8,7 × x = 8,7
+
+x = 1
+
+b, 4,3 × x = 3,8 × 4,3
+
+x = 3,8
+
+c) 6,9 × x = 69
+
+x = 10
+
+d) 7,3 × x + 2,7 × x = 10
+
+10 × x = 10
+
+x = 1
+
+[**Vở bài tập Toán lớp 5 trang 78 Bài 5:** Tính bằng cách thuận tiện nhất:](https://vietjack.com/giai-vo-bai-tap-toan-5/bai-5-trang-78-vbt-toan-5-tap-1.jsp)
+
+a, 8,32 ×4 × 25
+
+b, 2,5 × 5 × 0,2
+
+c, 0,8 × 1,25 × 0,29
+
+d, 9,2 × 6,8 – 9,2 × 5,8
+
+Quảng cáo
+
+____**Phương pháp giải**
+
+\- Áp dụng tính chất giao hoán và kết hợp của phép nhân để nhóm các số thích hợp có tích là 1; 10; 100; ... 
+
+\- Áp dụng tính chất nhân một số với một hiệu: a × b − a × c = a × (b − c)
+
+**Lời giải:**
+
+a, 8,32 ×4 × 25 = 8,32 ×100
+
+= 832
+
+b, 2,5 × 5 × 0,2 = 2,5 × 1 
+
+= 2,5
+
+c) 0,8 × 1,25 × 0,29 = 1 × 0,29
+
+= 0,29
+
+d) 9,2 × 6,8 – 9,2 × 5,8 = 9,2 ×( 6,8 – 5,8)
+
+= 9,2 × 1
+
+= 9,2 
+
+Xem thêm các bài giải vở bài tập Toán lớp 5 hay, chi tiết khác:
+
+**Xem thêm các bài Để học tốt Toán lớp 5 hay khác:**
+
+* * *
+
+[__Trang trước](https://vietjack.com/giai-vo-bai-tap-toan-5/bai-61-luyen-tap-chung.jsp)
+
+[Trang sau __](https://vietjack.com/giai-vo-bai-tap-toan-5/bai-63-chia-mot-so-thap-phan-voi-mot-so-tu-nhien.jsp)
+
+* * *
+
+* * *
+
+Giải bài tập lớp 5 sách mới các môn học

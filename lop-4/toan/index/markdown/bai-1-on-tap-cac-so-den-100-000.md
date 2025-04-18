@@ -1,215 +1,330 @@
-# Vở bài tập Toán lớp 4 Kết nối tri thức Bài 1: Ôn tập các số đến 100 000
+# Vở bài tập Toán lớp 4 Chân trời sáng tạo Bài 1: Ôn tập các số đến 100 000
 
-# Vở bài tập Toán lớp 4 Kết nối tri thức Bài 1: Ôn tập các số đến 100 000
+# Vở bài tập Toán lớp 4 Chân trời sáng tạo Bài 1: Ôn tập các số đến 100 000
 
-Với giải vở bài tập Toán lớp 4 Bài 1: Ôn tập các số đến 100 000 trang 5, 6, 7 sách Kết nối tri thức hay nhất, chi tiết sẽ giúp học sinh dễ dàng làm bài tập về nhà trong vở bài tập Toán lớp 4 Tập 1.
+Với giải vở bài tập Toán lớp 4 Bài 1: Ôn tập các số đến 100 000 trang 7, 8, 9, 10 sách Chân trời sáng tạo hay nhất, chi tiết sẽ giúp học sinh dễ dàng làm bài tập về nhà trong vở bài tập Toán lớp 4 Tập 1.
 
-## Giải vở bài tập Toán lớp 4 Kết nối tri thức Bài 1: Ôn tập các số đến 100 000
+## Giải vở bài tập Toán lớp 4 Chân trời sáng tạo Bài 1: Ôn tập các số đến 100 000
 
 Quảng cáo
 
-### [**Vở bài tập Toán lớp 4 trang 5, 6 Bài 1 Tiết 1**](https://vietjack.com/vbt-toan-4-kn/bai-1-tiet-1-trang-5-6-tap-1.jsp)
+[**Vở bài tập Toán lớp 4 trang 7**](https://vietjack.com/vbt-toan-4-ct/vbt-toan-lop-4-trang-7-chan-troi.jsp)
 
-[**Vở bài tập Toán lớp 4 trang 5**](https://vietjack.com/vbt-toan-4-kn/vbt-toan-lop-4-trang-5-ket-noi.jsp)
+**Vở bài tập Toán lớp 4 trang 7 Bài 1:** Thực hiện theo mẫu.
 
-**Vở bài tập Toán lớp 4 trang 5 Bài 1:** Hoàn thành bảng sau (theo mẫu)
+Mẫu: Số gồm 3 chục nghìn, 7 nghìn, 6 trăm, 5 chục và 9 đơn vị.
 
-Viết số | Hàng chục nghìn | Hàng nghìn**Trả lời** | Hàng trăm | Hàng chục | Hàng đơn vị | Đọc số  
+Viết số: 37 659.
+
+Đọc số: Ba mươi bảy nghìn sáu trăm năm mươi chín.
+
+Viết số thành tổng: 37 659 = 30 000 + 7 000 + 600 + 50 + 9.
+
+a) Số gồm 6 chục nghìn, 8 nghìn, 1 trăm, 4 chục và 5 đơn vị.
+
+Viết số: ………………………………………………………………………………….
+
+Đọc số: ………………………………………………………………………………….
+
+Viết số thành tổng: ……………………………………………………………………..
+
+b) Số gồm 1 chục nghìn, 2 nghìn và 2 trăm.
+
+Viết số: ………………………………………………………………………………….
+
+Đọc số: ………………………………………………………………………………….
+
+Viết số thành tổng: ……………………………………………………………………..
+
+c) Số gồm 4 nghìn và 1 đơn vị.
+
+Viết số: ………………………………………………………………………………….
+
+Đọc số: ………………………………………………………………………………….
+
+Viết số thành tổng: ……………………………………………………………………..
+
+Quảng cáo
+
+**Hướng dẫn giải**
+
+a) Số gồm 6 chục nghìn, 8 nghìn, 1 trăm, 4 chục và 5 đơn vị.
+
+**Viết số** : 68 145
+
+**Đọc số:** Sáu mươi tám nghìn một trăm bốn mươi lăm.
+
+**Viết số thành tổng:** 68 145 = 60 000 + 8 000 + 100 + 40 + 5.
+
+b) Số gồm 1 chục nghìn, 2 nghìn và 2 trăm.
+
+**Viết số:** 12 200
+
+**Đọc số:** Mười hai nghìn hai trăm.
+
+**Viết số thành tổng:** 12 200 = 10 000 + 2 000 + 200.
+
+c) Số gồm 4 nghìn và 1 đơn vị.
+
+**Viết số:** 4 001
+
+**Đọc số:** Bốn nghìn không trăm linh một.
+
+**Viết số thành tổng:** 4 001 = 4 000 + 1
+
+**Vở bài tập Toán lớp 4 trang 7 Bài 2:** Số?
+
+a) 4 760; 4 770; 4 780; …………..; …………..; …………..; 4 820.
+
+b) 6 600; 6 700; 6 800; …………..; …………..; …………..; 7 200.
+
+c) 50 000; 60 000; 70 000; …………..; …………..; …………..
+
+Quảng cáo
+
+**Hướng dẫn giải**
+
+a) 4 760; 4 770; 4 780; 4 790; 4 800; 4 810; 4 820.
+
+b) 6 600; 6 700; 6 800; 6 900; 7 000; 7 100; 7 200.
+
+c) 50 000; 60 000; 70 000; 80 000; 90 000; 100 000.
+
+[**Vở bài tập Toán lớp 4 trang 8**](https://vietjack.com/vbt-toan-4-ct/vbt-toan-lop-4-trang-8-chan-troi.jsp)
+
+**Vở bài tập Toán lớp 4 trang 8 Bài 3:** Nối tổng với số thích hợp.
+
+![Vở bài tập Toán lớp 4 Chân trời sáng tạo Bài 1: Ôn tập các số đến 100 000](https://vietjack.com/vbt-toan-4-ct/images/bai-1-on-tap-cac-so-den-100-000.PNG)
+
+**Hướng dẫn giải**
+
+![Vở bài tập Toán lớp 4 Chân trời sáng tạo Bài 1: Ôn tập các số đến 100 000](https://vietjack.com/vbt-toan-4-ct/images/bai-1-on-tap-cac-so-den-100-000-1.PNG)
+
+Quảng cáo
+
+**Vở bài tập Toán lớp 4 trang 8 Bài 4:a) >, < =**
+
+![Vở bài tập Toán lớp 4 Chân trời sáng tạo Bài 1: Ôn tập các số đến 100 000](https://vietjack.com/vbt-toan-4-ct/images/bai-1-on-tap-cac-so-den-100-000-2.PNG)
+
+76 409 ![Vở bài tập Toán lớp 4 Chân trời sáng tạo Bài 1: Ôn tập các số đến 100 000](https://vietjack.com/vbt-toan-4-ct/images/bai-1-on-tap-cac-so-den-100-000-5.PNG) 76 431
+
+b) Sắp xếp các số 10 748; 11 750; 9 747; 11 251 theo thứ tự từ bé đến lớn.
+
+…………………………………………………………………………………………..
+
+c) Viết bốn số ở câu b) vào chỗ chấm thích hợp.
+
+![Vở bài tập Toán lớp 4 Chân trời sáng tạo Bài 1: Ôn tập các số đến 100 000](https://vietjack.com/vbt-toan-4-ct/images/bai-1-on-tap-cac-so-den-100-000-3.PNG)
+
+**Hướng dẫn giải**
+
+a) 76 409 ![Vở bài tập Toán lớp 4 Chân trời sáng tạo Bài 1: Ôn tập các số đến 100 000](https://vietjack.com/vbt-toan-4-ct/images/bai-1-on-tap-cac-so-den-100-000-6.PNG) 76 431
+
+b) Sắp xếp các số 10 748; 11 750; 9 747; 11 251 theo thứ tự từ bé đến lớn:
+
+9 747; 10 748; 11 251; 11 750.
+
+c) Viết bốn số ở câu b) vào chỗ chấm thích hợp.
+
+![Vở bài tập Toán lớp 4 Chân trời sáng tạo Bài 1: Ôn tập các số đến 100 000](https://vietjack.com/vbt-toan-4-ct/images/bai-1-on-tap-cac-so-den-100-000-4.PNG)
+
+**Vở bài tập Toán lớp 4 trang 8 Bài 5:** Làm tròn mỗi số đến hàng được tô màu rồi nói (theo mẫu).
+
+Mẫu: Làm tròn số 81 415 đến hàng chục thì được số 81 420.
+
+Số đã cho |  356 |  28 473 |  2 021 |  76 892 |  7 428 |  16 534  
 ---|---|---|---|---|---|---  
-41 706 | 4 | 1 | 7 | 0 | 6 | Bốn mươi mốt nghìn bảy trăm linh sáu  
-| 5 | 3 |  | 1 | 4 | Năm mươi ba nghìn không trăm mười bốn  
-|  |  | 3 |  | 5 | Chín mươi sáu nghìn ba trăm bảy mươi lăm  
-|  | 9 |  |  |  | Chín nghìn ba trăm linh chín  
+Số sau khi làm tròn |  |  |  |  |  |   
   
 **Hướng dẫn giải**
 
-Viết số | Hàng chục nghìn | Hàng nghìn | Hàng trăm | Hàng chục | Hàng đơn vị | Đọc số  
+Số đã cho |  356 |  28 473 |  2 021 |  76 892 |  7 428 |  16 534  
 ---|---|---|---|---|---|---  
-41 706 | 4 | 1 | 7 | 0 | 6 | Bốn mươi mốt nghìn bảy trăm linh sáu  
-53 014 | 5 | 3 | 0 | 1 | 4 | Năm mươi ba nghìn không trăm mười bốn  
-96 375 | 9 | 6 | 3 | 7 | 5 | Chín mươi sáu nghìn ba trăm bảy mươi lăm  
-9 309 |  | 9 | 3 | 0 | 9 | Chín nghìn ba trăm linh chín  
+Số sau khi làm tròn |  360 |  28 470 |  2 000 |  76 900 |  7 000 |  17 000  
   
-Quảng cáo
+**Học sinh nói như sau:**
 
-**Vở bài tập Toán lớp 4 trang 5 Bài 2:** Nối (theo mẫu).
+Làm tròn số 356 đến hàng chục thì được số 360.
 
-![Vở bài tập Toán lớp 4 trang 5,6 Bài 1 Tiết 1 Kết nối tri thức](https://vietjack.com/vbt-toan-4-kn/images/bai-1-tiet-1-trang-5-6-tap-1.PNG)
+Làm tròn số 28 473 đến hàng chục thì được số 28 470
 
-**Hướng dẫn giải**
+Làm tròn số 2 021 đến hàng trăm thì được số 2 000
 
-**![Vở bài tập Toán lớp 4 trang 5,6 Bài 1 Tiết 1 Kết nối tri thức](https://vietjack.com/vbt-toan-4-kn/images/bai-1-tiet-1-trang-5-6-tap-1-1.PNG)**
+Làm tròn số 76 892 đến hàng trăm thì được số 76 900
 
-Quảng cáo
+Làm tròn số 7 428 đến hàng nghìn thì được số 7 000
 
-[**Vở bài tập Toán lớp 4 trang 6**](https://vietjack.com/vbt-toan-4-kn/vbt-toan-lop-4-trang-6-ket-noi.jsp)
+Làm tròn số 16 534 đến hàng nghìn thì được số 17 000
 
-**Vở bài tập Toán lớp 4 trang 6 Bài 3:** Viết số thích hợp vào chỗ chấm
+[**Vở bài tập Toán lớp 4 trang 9**](https://vietjack.com/vbt-toan-4-ct/vbt-toan-lop-4-trang-9-chan-troi.jsp)
 
-a) 8 741 = 8 000 + 700 + 40 + …………
+**Vở bài tập Toán lớp 4 trang 9 Bài 6:** Quan sát hình ảnh trong sách giáo khoa rồi điền số thích hợp vào chỗ chấm.
 
-b) 54 283 = 50 000 + 4 000 + ………… + 80 + 3
+a) Số tiền có tất cả là: …………….. đồng.
 
-c) 69 240 = 60 000 + 9 000 + 200 + …………
-
-d) 95 602 = 90 000 + 5 000 + ………… + 2
+b) Với số tiền có ở câu a), có thể mua được hộp bút chì màu có giá là …………….. đồng.
 
 **Hướng dẫn giải**
 
-a) 8 741 = 8 000 + 700 + 40 + 1
+![Vở bài tập Toán lớp 4 Chân trời sáng tạo Bài 1: Ôn tập các số đến 100 000](https://vietjack.com/vbt-toan-4-ct/images/bai-1-on-tap-cac-so-den-100-000-7.PNG)
 
-b) 54 283 = 50 000 + 4 000 + 200 \+ 80 + 3
+![Vở bài tập Toán lớp 4 Chân trời sáng tạo Bài 1: Ôn tập các số đến 100 000](https://vietjack.com/vbt-toan-4-ct/images/bai-1-on-tap-cac-so-den-100-000-8.PNG)
 
-c) 69 240 = 60 000 + 9 000 + 200 + 40
+a) Số tiền có tất cả là: 47 000 đồng.
 
-d) 95 602 = 90 000 + 5 000 + 600 \+ 2
+b) Với số tiền có ở câu a), có thể mua được hộp bút chì màu có giá là 46 000 đồng.
 
-Quảng cáo
+**Vở bài tập Toán lớp 4 trang 9 Thử thách:** Số?
 
-**Vở bài tập Toán lớp 4 trang 6 Bài 4:** Số?
+a) 34 512; 34 522; 34 532; …………..; 34 552.
 
-![Vở bài tập Toán lớp 4 trang 6 Bài 1 Tiết 1 Kết nối tri thức](https://vietjack.com/vbt-toan-4-kn/images/bai-1-tiet-1-trang-5-6-tap-1-2.PNG)
+b) 67 825; 67 925; …………..; 68 125; …………..
 
 **Hướng dẫn giải**
 
-**![Vở bài tập Toán lớp 4 trang 6 Bài 1 Tiết 1 Kết nối tri thức](https://vietjack.com/vbt-toan-4-kn/images/bai-1-tiet-1-trang-5-6-tap-1-3.PNG)**
+a) 34 512; 34 522; 34 532; 34 542; 34 552.
 
-**Vở bài tập Toán lớp 4 trang 6 Bài 5:** Số?
+b) 67 825; 67 925; 68 025; 68 125; 68 225.
 
-Số liền trước | Số đã cho | Số liền sau  
----|---|---  
-40 317 | 40 318 |   
-| 21 420 | 21 421  
-| 59 001 |   
-| 87 500 |   
+**Vở bài tập Toán lớp 4 trang 9 Bài 7:** Đúng ghi **đ,** sai ghi **s.**
+
+a) Số hai mươi bốn nghìn năm trăm linh ba viết là 24 503. ![Vở bài tập Toán lớp 4 Chân trời sáng tạo Bài 1: Ôn tập các số đến 100 000](https://vietjack.com/vbt-toan-4-ct/images/bai-1-on-tap-cac-so-den-100-000-5.PNG)
+
+b) Số 81 160 đọc là tám một một sáu không. ![Vở bài tập Toán lớp 4 Chân trời sáng tạo Bài 1: Ôn tập các số đến 100 000](https://vietjack.com/vbt-toan-4-ct/images/bai-1-on-tap-cac-so-den-100-000-5.PNG)
+
+c) Số gồm 5 chục nghìn và 2 trăm viết là 5 200. ![Vở bài tập Toán lớp 4 Chân trời sáng tạo Bài 1: Ôn tập các số đến 100 000](https://vietjack.com/vbt-toan-4-ct/images/bai-1-on-tap-cac-so-den-100-000-5.PNG)
+
+d) 77 108 = 70 000 + 7 000 + 100 + 8. ![Vở bài tập Toán lớp 4 Chân trời sáng tạo Bài 1: Ôn tập các số đến 100 000](https://vietjack.com/vbt-toan-4-ct/images/bai-1-on-tap-cac-so-den-100-000-5.PNG)
+
+**Hướng dẫn giải**
+
+a) Số hai mươi bốn nghìn năm trăm linh ba viết là 24 503. ![Vở bài tập Toán lớp 4 Chân trời sáng tạo Bài 1: Ôn tập các số đến 100 000](https://vietjack.com/vbt-toan-4-ct/images/bai-1-on-tap-cac-so-den-100-000-9.PNG)
+
+b) Số 81 160 đọc là tám một một sáu không. ![Vở bài tập Toán lớp 4 Chân trời sáng tạo Bài 1: Ôn tập các số đến 100 000](https://vietjack.com/vbt-toan-4-ct/images/bai-1-on-tap-cac-so-den-100-000-10.PNG)
+
+c) Số gồm 5 chục nghìn và 2 trăm viết là 5 200. ![Vở bài tập Toán lớp 4 Chân trời sáng tạo Bài 1: Ôn tập các số đến 100 000](https://vietjack.com/vbt-toan-4-ct/images/bai-1-on-tap-cac-so-den-100-000-10.PNG)
+
+d) 77 108 = 70 000 + 7 000 + 100 + 8. ![Vở bài tập Toán lớp 4 Chân trời sáng tạo Bài 1: Ôn tập các số đến 100 000](https://vietjack.com/vbt-toan-4-ct/images/bai-1-on-tap-cac-so-den-100-000-9.PNG)
+
+**Vở bài tập Toán lớp 4 trang 9 Bài 8:** Khoanh vào chữ cái trước ý trả lời đúng.
+
+a) Số liền sau của số 99 999 là:
+
+A. 100 000 
+
+B. 99 998 
+
+C. 10 000 
+
+D. 9 998
+
+b) Số 40 050 là:
+
+A. số tròn chục nghìn 
+
+B. số tròn nghìn 
+
+C. số tròn trăm 
+
+D. số tròn chục
+
+c) Làm tròn số 84 572 đến hàng nghìn thì được số:
+
+A. 80 000 
+
+B. 85 000 
+
+C. 84 000 
+
+D. 84 600
+
+d) Số bé nhất có bốn chữ số là:
+
+A. 1 000 
+
+B. 1 111 
+
+C. 1 234 
+
+D. 10 000
+
+**Hướng dẫn giải**
+
+a) **Đáp án đúng là: A**
+
+Số liền sau của số 99 999 là: 99 999 + 1 = 100 000.
+
+b) **Đáp án đúng là: D**
+
+Số 40 050 là: số tròn chục.
+
+c) **Đáp án đúng là: B**
+
+Chữ số hàng trăm là 5 nên khi làm tròn đến hàng nghìn ta cộng thêm vào chữ số hàng nghìn 1 đơn vị, thay các chữ số sau chữ số hàng nghìn bằng các chữ số 0.
+
+Làm tròn số 84 572 đến hàng nghìn thì được số: 85 000
+
+d) **Đáp án đúng là: A**
+
+Số bé nhất có bốn chữ số là: 1 000.
+
+[**Vở bài tập Toán lớp 4 trang 10**](https://vietjack.com/vbt-toan-4-ct/vbt-toan-lop-4-trang-10-chan-troi.jsp)
+
+**Vở bài tập Toán lớp 4 trang 10 Bài 9:** Tìm hiểu bảng sau rồi trả lời các câu hỏi.
+
+**Quãng đường** |  **Độ dài khoảng**  
+---|---  
+Hà Nội – Cột cờ Lũng Cú |  439 km  
+Hà Nội – Đất Mũi |  2 107 km  
+Hà Nội – Mũi Đôi |  1 186 km  
+Hà Nội – A Pa Chải |  681 km  
   
-**Hướng dẫn giải**
+a) Viết tên:
 
-Số liền trước | Số đã cho | Số liền sau  
----|---|---  
-40 317 | 40 318 | 40 319  
-21 419 | 21 420 | 21 421  
-59 000 | 59 001 | 59 002  
-87 499 | 87 500 | 87 501  
-  
-### [**Vở bài tập Toán lớp 4 trang 6, 7 Bài 1 Tiết 2**](https://vietjack.com/vbt-toan-4-kn/bai-1-tiet-2-trang-6-7-tap-1.jsp)
+\- Quãng đường dài nhất: ……………………………………..
 
-**Vở bài tập Toán lớp 4 trang 6 Bài 1:** >; <; =?
+\- Quãng đường ngắn nhất: ……………………………………..
 
-a)
+b) Sắp xếp các số đo độ dài trên theo thứ tự từ lớn đến bé.
 
-100 000 □ 9 999
+………… km; ………… km; ………… km; ………… km; 
 
-83 689 □ 83 700
+c) Làm tròn các số đo trên đến hàng trăm. Điền số thích hợp.
 
-42 000 □ 41 999
+\- Quãng đường từ Hà Nội đến cột cờ Lũng Cú dài khoảng ………… km.
 
-b)
+\- Quãng đường từ Hà Nội đến Đất Mũi dài khoảng ………… km.
 
-7 452 □ 7 000 + 500 + 40 + 2
+\- Quãng đường từ Hà Nội đến Mũi Đôi dài khoảng ………… km.
 
-68 704 □ 60 000 + 8 000 + 700 + 4
-
-90 990 □ 90 000 + 900 + 90
+\- Quãng đường từ Hà Nội đến A Pa Chải dài khoảng ………… km.
 
 **Hướng dẫn giải**
 
-a)
+a) Viết tên:
 
-100 000 > 9 999
+\- Quãng đường dài nhất: Hà Nội – Đất Mũi.
 
-83 689 < 83 700
+\- Quãng đường ngắn nhất: Hà Nội – Cột cờ Lũng Cú.
 
-42 000 > 41 999
+b) Sắp xếp các số đo độ dài trên theo thứ tự từ lớn đến bé.
 
-b)
+2 107 km; 1 186 km; 681 km; 439 km; 
 
-7 452 < 7 000 + 500 + 40 + 2
+c) Làm tròn các số đo trên đến hàng trăm. Điền số thích hợp.
 
-68 704 = 60 000 + 8 000 + 700 + 4
+\- Quãng đường từ Hà Nội đến cột cờ Lũng Cú dài khoảng 400 km.
 
-90 990 = 90 000 + 900 + 90
+\- Quãng đường từ Hà Nội đến Đất Mũi dài khoảng 2 100 km.
 
-**Vở bài tập Toán lớp 4 trang 6 Bài 2:** Khoanh vào chữ cái đặt trước câu trả lời đúng
+\- Quãng đường từ Hà Nội đến Mũi Đôi dài khoảng 1 200 km.
 
-a) Trong các số 41 678, 40 768, 39 999, 50 000. Số bé nhất là:
+\- Quãng đường từ Hà Nội đến A Pa Chải dài khoảng 700 km.
 
-A. 41 678 B. 40 768 C. 39 999 D. 50 000
-
-b) Số nào dưới đây có chữ số hàng nghìn là 5?
-
-A. 62 597 B. 85 468 C. 51 490 D. 70 259
-
-c) Số dân của một phường là 16 469 người. Số dân của phường đó làm tròn đến hàng trăm là:
-
-A. 16 400 B. 16 000 C. 16 470 D. 16 500
-
-**Hướng dẫn giải**
-
-a) **Đáp án đúng là: C**
-
-Ta có: 39 999 < 40 768 < 41 678 < 50 000. Số bé nhất là: 39 999.
-
-b) **Đáp án đúng là: B**
-
-Số có chữ số hàng nghìn là 5 là: 85 468.
-
-c) **Đáp án đúng là: D**
-
-Số dân của một phường là 16 469 người. 
-
-Ta thấy chữ số hàng chục là 6 nên khi làm tròn đến hàng trăm, ta cộng thêm 1 đơn vị vào chữ số hàng trăm và thay các chữ số hàng chục, đơn vị bằng các chữ số 0.
-
-Số dân của phường đó làm tròn đến hàng trăm là: 16 500
-
-[**Vở bài tập Toán lớp 4 trang 7**](https://vietjack.com/vbt-toan-4-kn/vbt-toan-lop-4-trang-7-ket-noi.jsp)
-
-**Vở bài tập Toán lớp 4 trang 7 Bài 3:** Số?
-
-**![Vở bài tập Toán lớp 4 trang 6,7 Bài 1 Tiết 2 Kết nối tri thức](https://vietjack.com/vbt-toan-4-kn/images/bai-1-tiet-2-trang-6-7-tap-1.PNG)**
-
-**Hướng dẫn giải**
-
-**![Vở bài tập Toán lớp 4 trang 6,7 Bài 1 Tiết 2 Kết nối tri thức](https://vietjack.com/vbt-toan-4-kn/images/bai-1-tiet-2-trang-6-7-tap-1-1.PNG)**
-
-**Vở bài tập Toán lớp 4 trang 7 Bài 4:** Viết tiếp vào chỗ chấm cho thích hợp.
-
-Trong bốn ngày cuối của tuần chiến dịch tiêm chủng mở rộng, thành phố Đại Dương đã tiêm được số liều vắc-xin Sởi như sau:
-
-Thứ Năm: 29 650 liều vắc-xin Thứ Sáu: 26 986 liều vắc-xin
-
-Thứ Bảy: 31 875 liều vắc-xin Chủ nhật: 32 008 liều vắc-xin
-
-a) Thành phố Đại Dương tiêm được nhiều liều vắc-xin nhất vào ngày ………………… Thành phố Đại Dương tiêm được ít liều vắc-xin nhất vào ngày …………………
-
-b) Tên các ngày được sắp xếp theo thứ tự tiêm được số liều vắc-xin từ nhiều nhất đến ít nhất là ……………………………………………………………………………………..
-
-**Hướng dẫn giải**
-
-a) Thành phố Đại Dương tiêm được nhiều liều vắc-xin nhất vào ngày Chủ nhật. Thành phố Đại Dương tiêm được ít liều vắc-xin nhất vào ngày Thứ Sáu.
-
-b) Tên các ngày được sắp xếp theo thứ tự tiêm được số liều vắc-xin từ nhiều nhất đến ít nhất là Chủ nhật; Thứ Bảy; Thứ Năm; Thứ Sáu.
-
-**Vở bài tập Toán lớp 4 trang 7 Bài 5:** Viết số thích hợp vào chỗ chấm.
-
-Lấy các que tính xếp thành số 39 458 như sau:
-
-![Vở bài tập Toán lớp 4 trang 6,7 Bài 1 Tiết 2 Kết nối tri thức](https://vietjack.com/vbt-toan-4-kn/images/bai-1-tiet-2-trang-6-7-tap-1-2.PNG)
-
-\- Chuyển chỗ một que tính xếp được số lớn nhất có thể. Số đó là …………………
-
-\- Chuyển chỗ hai que tính xếp được số bé nhất có thể. Số đó là …………………
-
-**Hướng dẫn giải**
-
-\- Chuyển chỗ một que tính xếp được số lớn nhất có thể. Số đó là 99 459.
-
-\- Chuyển chỗ hai que tính xếp được số bé nhất có thể. Số đó là 20 458.
-
-Xem thêm các bài giải vở bài tập Toán lớp 4 Kết nối tri thức hay, chi tiết khác:
+Xem thêm các bài giải vở bài tập Toán lớp 4 Chân trời sáng tạo hay, chi tiết khác:
 
 Xem thêm các tài liệu học tốt lớp 4 hay khác:
 
 * * *
 
-Giải bài tập lớp 4 Kết nối tri thức khác
+Giải bài tập lớp 4 Chân trời sáng tạo khác

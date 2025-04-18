@@ -1,73 +1,65 @@
-# Vở bài tập Tiếng Việt lớp 2 Tập 2 trang 4 Bài 1: Chuyện bốn mùa - Kết nối tri thức
+# Vở bài tập Tiếng Việt lớp 2 Tập 2 trang 18 Bài 1: Chuyện bốn mùa - Chân trời sáng tạo
 
-# Vở bài tập Tiếng Việt lớp 2 Tập 2 trang 4 Bài 1: Chuyện bốn mùa - Kết nối tri thức
+# Vở bài tập Tiếng Việt lớp 2 Tập 2 trang 18 Bài 1: Chuyện bốn mùa - Chân trời sáng tạo
 
-## Vở bài tập Tiếng Việt lớp 2 Tập 2 trang 4 Bài 1: Chuyện bốn mùa - Kết nối tri thức
+## Vở bài tập Tiếng Việt lớp 2 Tập 2 trang 18 Bài 1: Chuyện bốn mùa - Chân trời sáng tạo
 
-Với giải vở bài tập Tiếng Việt lớp 2 Tập 2 trang 4 Bài 1: Chuyện bốn mùa sách Kết nối tri thức với cuộc sống hay nhất, chi tiết sẽ giúp học sinh dễ dàng làm bài tập trong vở bài tập Tiếng Việt lớp 2.
-
-Quảng cáo
-
-**Câu 1 (trang 4 Vở bài tập Tiếng Việt lớp 2 tập 2):** Dựa vào bài đọc, viết tên mùa phù hợp với mỗi tranh.
-
-![Bài 1: Chuyện bốn mùa](https://vietjack.com/vbt-tieng-viet-2-kn/images/bai-1-chuyen-bon-mua-35095.png)
-
-**Trả lời**
-
-![Bài 1: Chuyện bốn mùa](https://vietjack.com/vbt-tieng-viet-2-kn/images/bai-1-chuyen-bon-mua-35096.png)
-
-mùa đông mùa xuân mùa hạ mùa thu
+Với giải vở bài tập Tiếng Việt lớp 2 Tập 2 trang 18 Bài 1: Chuyện bốn mùa sách Chân trời sáng tạo hay nhất, chi tiết sẽ giúp học sinh dễ dàng làm bài tập trong vở bài tập Tiếng Việt lớp 2.
 
 Quảng cáo
 
-**Câu 2 (trang 4 Vở bài tập Tiếng Việt lớp 2 tập 2):** Viết tiếp để hoàn chỉnh những điều bà Đất nói về các nàng tiên trong bài đọc.
+**Câu 1. (trang 18 vở bài tập Tiếng Việt lớp 2 Tập 2)**
 
-a. Xuân làm cho ……………………………………………………………………
+**Tô màu vào đám mây chứa từ ngữ chỉ đặc điểm.**
 
-b. Hạ cho ……………………………………………………………………………
-
-c. Thu làm cho …………………………………………………………………….
-
-d. Còn cháu Đông, cháu ……………………………………………………………
+![Tập 2 trang 18 Bài 1: Chuyện bốn mùa](https://vietjack.com/vbt-tieng-viet-2-ct/images/bai-1-chuyen-bon-mua.png)
 
 **Trả lời**
 
-a. Xuân làm cho **cây lá tươi tốt.**
+Các từ ngữ chỉ đặc điểm là: **trắng muốt, xanh ngắt, mát mẻ, rực rỡ, trong vắt, tươi tốt.**
 
-b. Hạ cho **trái ngọt, hoa thơm**.
+**Câu 2. (trang 18 vở bài tập Tiếng Việt lớp 2 Tập 2)**
 
-c. Thu làm cho **trời xanh cao, học sinh nhớ ngày tựu trường**.
+**Viết từ ngữ chỉ đặc điểm của cảnh vật:**
 
-d. Còn cháu Đông, cháu **có công ấp ủ mầm sống để xuân về cây cối đâm chồi nảy lộc.**
+a. Mùa xuân.
 
-**Câu 3 (trang 4** **Vở bài tập Tiếng Việt lớp 2 tập 2):** Câu nào dưới đây là câu nêu đặc điểm? (đánh dấu ✔ vào ô trống trước đáp án đúng)
+b. Mùa hạ.
 
-☐ Bốn nàng tiên cầm tay nhau trò chuyện.
+c. Mùa thu.
 
-☐ Các cháu đều có ích, đều đáng yêu.
+d. Mùa đông
 
 Quảng cáo
 
 **Trả lời**
 
-☐ Bốn nàng tiên cầm tay nhau trò chuyện.
+a. Mùa xuân: **nảy lộc, mát mẻ.**
 
-☑ Các cháu đều có ích, đều đáng yêu.
+b. Mùa hạ: **nắng gắt, nóng nực**.
 
-**Câu 4 (trang 4 Vở bài tập Tiếng Việt lớp 2 tập 2):** Viết 1 – 2 câu về nàng tiên em thích nhất trong bài đọc.
+c. Mùa thu: **mát dịu, trong vắt**.
+
+d. Mùa đông: **lạnh buốt, gió lớn**.
+
+**Câu 3. (trang 19 vở bài tập Tiếng Việt lớp 2 Tập 2)**
+
+**Viết 1 – 2 câu về sự vật trong mỗi bức tranh sau:**
+
+![Tập 2 trang 18 Bài 1: Chuyện bốn mùa](https://vietjack.com/vbt-tieng-viet-2-ct/images/bai-1-1-chuyen-bon-mua.png)
 
 **Trả lời**
 
-Em thích nhất là nàng tiên Xuân.
+Đoá hoa nở rực rỡ.
+
+Bầu trời thật trong lành.
 
 Quảng cáo
 
-Tham khảo giải SGK Tiếng Việt lớp 2:
-
-Xem thêm các bài giải vở bài tập Tiếng Việt lớp 2 sách Kết nối tri thức với cuộc sống hay, chi tiết khác:
+Xem thêm các bài giải vở bài tập Tiếng Việt lớp 2 sách Chân trời sáng tạo hay, chi tiết khác:
 
 Xem thêm các tài liệu học tốt lớp 2 hay khác:
 
 * * *
 
-Các loạt bài lớp 2 Kết nối tri thức khác
+Các loạt bài lớp 2 Chân trời sáng tạo khác
