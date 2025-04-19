@@ -11309,3 +11309,601 @@
 2025-04-18 06:59:37,878 - markdown_crawler - INFO - Tổng URL: 6720
 2025-04-18 06:59:37,878 - markdown_crawler - INFO - Tổng thời gian: 2:34:55
 2025-04-18 06:59:37,878 - markdown_crawler - INFO - === HOÀN THÀNH ===
+2025-04-19 02:26:11,895 - markdown_crawler - INFO - 
+    =========================================================
+    =            CRAWLER VIETJACK TO MARKDOWN              =
+    =                  PHIÊN BẢN LỚP 1                  =
+    =========================================================
+    
+2025-04-19 02:26:32,067 - markdown_crawler - INFO - 
+    =========================================================
+    =            CRAWLER VIETJACK TO MARKDOWN              =
+    =                  PHIÊN BẢN LỚP 1                  =
+    =========================================================
+    
+2025-04-19 02:26:32,851 - markdown_crawler - INFO - Tìm thấy 3 file JSON cần xử lý
+2025-04-19 02:26:33,639 - markdown_crawler - INFO - 
+=== [1/3] Đang xử lý: lop-1 - Tiếng Việt ===
+2025-04-19 02:26:34,487 - markdown_crawler - INFO - Tổng số URL: 129
+2025-04-19 02:26:34,487 - markdown_crawler - INFO - Số URL đã crawl: 0
+2025-04-19 02:26:34,488 - markdown_crawler - INFO - Số URL cần crawl: 129
+2025-04-19 02:26:35,350 - markdown_crawler - INFO - [1/129] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-1-a-c.jsp
+2025-04-19 02:26:35,696 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-1-a-c.md
+2025-04-19 02:26:36,697 - markdown_crawler - INFO - [2/129] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-2-ca-ca.jsp
+2025-04-19 02:26:37,130 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-2-ca-ca.md
+2025-04-19 02:26:38,131 - markdown_crawler - INFO - [3/129] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-4-o-o.jsp
+2025-04-19 02:26:38,528 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-4-o-o.md
+2025-04-19 02:26:39,529 - markdown_crawler - INFO - [4/129] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-5-co-co.jsp
+2025-04-19 02:26:39,851 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-5-co-co.md
+2025-04-19 02:26:40,852 - markdown_crawler - INFO - [5/129] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-6-o-d.jsp
+2025-04-19 02:26:41,258 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-6-o-d.md
+2025-04-19 02:26:41,259 - markdown_crawler - INFO - Đã lưu checkpoint vào ./lop-1/tieng_viet/index/markdown/checkpoint.json
+2025-04-19 02:26:43,056 - markdown_crawler - INFO - [6/129] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-7-d-e.jsp
+2025-04-19 02:26:43,456 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-7-d-e.md
+2025-04-19 02:26:44,457 - markdown_crawler - INFO - [7/129] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-9-on-tap.jsp
+2025-04-19 02:26:44,796 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-9-on-tap.md
+2025-04-19 02:26:45,797 - markdown_crawler - INFO - [8/129] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-10-e-l.jsp
+2025-04-19 02:26:46,117 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-10-e-l.md
+2025-04-19 02:26:47,119 - markdown_crawler - INFO - [9/129] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-11-b-be.jsp
+2025-04-19 02:26:47,610 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-11-b-be.md
+2025-04-19 02:26:48,611 - markdown_crawler - INFO - [10/129] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-12-g-h.jsp
+2025-04-19 02:26:49,136 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-12-g-h.md
+2025-04-19 02:26:49,137 - markdown_crawler - INFO - Đã lưu checkpoint vào ./lop-1/tieng_viet/index/markdown/checkpoint.json
+2025-04-19 02:26:50,901 - markdown_crawler - INFO - [11/129] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-13-i-ia.jsp
+2025-04-19 02:26:51,325 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-13-i-ia.md
+2025-04-19 02:26:52,326 - markdown_crawler - INFO - [12/129] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-15-on-tap.jsp
+2025-04-19 02:26:52,645 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-15-on-tap.md
+2025-04-19 02:26:53,646 - markdown_crawler - INFO - [13/129] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-16-g-gh.jsp
+2025-04-19 02:26:54,138 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-16-g-gh.md
+2025-04-19 02:26:55,139 - markdown_crawler - INFO - [14/129] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-17-gi-k.jsp
+2025-04-19 02:26:55,533 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-17-gi-k.md
+2025-04-19 02:26:56,535 - markdown_crawler - INFO - [15/129] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-18-kh-m.jsp
+2025-04-19 02:26:56,929 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-18-kh-m.md
+2025-04-19 02:26:56,930 - markdown_crawler - INFO - Đã lưu checkpoint vào ./lop-1/tieng_viet/index/markdown/checkpoint.json
+2025-04-19 02:26:58,685 - markdown_crawler - INFO - [16/129] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-19-n-nh.jsp
+2025-04-19 02:26:59,192 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-19-n-nh.md
+2025-04-19 02:27:00,193 - markdown_crawler - INFO - [17/129] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-21-on-tap.jsp
+2025-04-19 02:27:00,532 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-21-on-tap.md
+2025-04-19 02:27:01,533 - markdown_crawler - INFO - [18/129] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-22-ng-ngh.jsp
+2025-04-19 02:27:02,024 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-22-ng-ngh.md
+2025-04-19 02:27:29,299 - markdown_crawler - INFO - 
+    =========================================================
+    =            CRAWLER VIETJACK TO MARKDOWN              =
+    =                  PHIÊN BẢN LỚP 1                  =
+    =========================================================
+    
+2025-04-19 02:27:30,261 - markdown_crawler - INFO - Tìm thấy 3 file JSON cần xử lý
+2025-04-19 02:27:31,050 - markdown_crawler - INFO - 
+=== [1/3] Đang xử lý: lop-1 - Tiếng Việt ===
+2025-04-19 02:27:31,844 - markdown_crawler - INFO - Tổng số URL: 129
+2025-04-19 02:27:31,845 - markdown_crawler - INFO - Số URL đã crawl: 15
+2025-04-19 02:27:31,845 - markdown_crawler - INFO - Số URL cần crawl: 114
+2025-04-19 02:27:32,597 - markdown_crawler - INFO - [1/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-19-n-nh.jsp
+2025-04-19 02:27:32,990 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-19-n-nh.md
+2025-04-19 02:27:33,991 - markdown_crawler - INFO - [2/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-21-on-tap.jsp
+2025-04-19 02:27:34,406 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-21-on-tap.md
+2025-04-19 02:27:35,407 - markdown_crawler - INFO - [3/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-22-ng-ngh.jsp
+2025-04-19 02:27:35,728 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-22-ng-ngh.md
+2025-04-19 02:27:36,729 - markdown_crawler - INFO - [4/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-23-p-ph.jsp
+2025-04-19 02:27:37,220 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-23-p-ph.md
+2025-04-19 02:27:38,222 - markdown_crawler - INFO - [5/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-24-qu-r.jsp
+2025-04-19 02:27:38,664 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-24-qu-r.md
+2025-04-19 02:27:38,664 - markdown_crawler - INFO - Đã lưu checkpoint vào ./lop-1/tieng_viet/index/markdown/checkpoint.json
+2025-04-19 02:27:40,485 - markdown_crawler - INFO - [6/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-25-s-x.jsp
+2025-04-19 02:27:40,828 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-25-s-x.md
+2025-04-19 02:27:41,829 - markdown_crawler - INFO - [7/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-27-on-tap.jsp
+2025-04-19 02:27:42,258 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-27-on-tap.md
+2025-04-19 02:27:43,260 - markdown_crawler - INFO - [8/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-28-t-th.jsp
+2025-04-19 02:27:43,672 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-28-t-th.md
+2025-04-19 02:27:44,673 - markdown_crawler - INFO - [9/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-29-tr-ch.jsp
+2025-04-19 02:27:45,153 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-29-tr-ch.md
+2025-04-19 02:27:46,154 - markdown_crawler - INFO - [10/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-30-u-u.jsp
+2025-04-19 02:27:46,547 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-30-u-u.md
+2025-04-19 02:27:46,547 - markdown_crawler - INFO - Đã lưu checkpoint vào ./lop-1/tieng_viet/index/markdown/checkpoint.json
+2025-04-19 02:27:48,375 - markdown_crawler - INFO - [11/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-31-ua-ua.jsp
+2025-04-19 02:27:48,710 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-31-ua-ua.md
+2025-04-19 02:27:49,710 - markdown_crawler - INFO - [12/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-33-on-tap.jsp
+2025-04-19 02:27:50,111 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-33-on-tap.md
+2025-04-19 02:27:51,112 - markdown_crawler - INFO - [13/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-34-v-y.jsp
+2025-04-19 02:27:51,611 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-34-v-y.md
+2025-04-19 02:27:52,612 - markdown_crawler - INFO - [14/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-35-chu-hoa.jsp
+2025-04-19 02:27:53,036 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-35-chu-hoa.md
+2025-04-19 02:27:54,037 - markdown_crawler - INFO - [15/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-36-am-ap.jsp
+2025-04-19 02:27:54,381 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-36-am-ap.md
+2025-04-19 02:27:54,382 - markdown_crawler - INFO - Đã lưu checkpoint vào ./lop-1/tieng_viet/index/markdown/checkpoint.json
+2025-04-19 02:27:56,301 - markdown_crawler - INFO - [16/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-39-on-tap.jsp
+2025-04-19 02:27:56,799 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-39-on-tap.md
+2025-04-19 02:27:57,800 - markdown_crawler - INFO - [17/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-40-am-ap.jsp
+2025-04-19 02:27:58,220 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-40-am-ap.md
+2025-04-19 02:27:59,221 - markdown_crawler - INFO - [18/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-41-em-ep.jsp
+2025-04-19 02:27:59,621 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-41-em-ep.md
+2025-04-19 02:28:00,623 - markdown_crawler - INFO - [19/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-42-em-ep.jsp
+2025-04-19 02:28:01,023 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-42-em-ep.md
+2025-04-19 02:28:02,024 - markdown_crawler - INFO - [20/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-43-im-ip.jsp
+2025-04-19 02:28:02,428 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-43-im-ip.md
+2025-04-19 02:28:02,429 - markdown_crawler - INFO - Đã lưu checkpoint vào ./lop-1/tieng_viet/index/markdown/checkpoint.json
+2025-04-19 02:28:04,188 - markdown_crawler - INFO - [21/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-45-on-tap.jsp
+2025-04-19 02:28:04,587 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-45-on-tap.md
+2025-04-19 02:28:05,588 - markdown_crawler - INFO - [22/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-46-iem-yem-iep.jsp
+2025-04-19 02:28:06,061 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-46-iem-yem-iep.md
+2025-04-19 02:28:07,061 - markdown_crawler - INFO - [23/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-47-om-op.jsp
+2025-04-19 02:28:07,465 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-47-om-op.md
+2025-04-19 02:28:08,467 - markdown_crawler - INFO - [24/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-48-om-op.jsp
+2025-04-19 02:28:08,882 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-48-om-op.md
+2025-04-19 02:28:09,883 - markdown_crawler - INFO - [25/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-49-om-op.jsp
+2025-04-19 02:28:10,292 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-49-om-op.md
+2025-04-19 02:28:10,292 - markdown_crawler - INFO - Đã lưu checkpoint vào ./lop-1/tieng_viet/index/markdown/checkpoint.json
+2025-04-19 02:28:12,142 - markdown_crawler - INFO - [26/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-51-on-tap.jsp
+2025-04-19 02:28:12,551 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-51-on-tap.md
+2025-04-19 02:28:13,552 - markdown_crawler - INFO - [27/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/on-tap-giua-hoc-ki-i.jsp
+2025-04-19 02:28:13,940 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/on-tap-giua-hoc-ki-i.md
+2025-04-19 02:28:14,941 - markdown_crawler - INFO - [28/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-52-um-up.jsp
+2025-04-19 02:28:15,371 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-52-um-up.md
+2025-04-19 02:28:16,372 - markdown_crawler - INFO - [29/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-53-uom.jsp
+2025-04-19 02:28:16,867 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-53-uom.md
+2025-04-19 02:28:17,869 - markdown_crawler - INFO - [30/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-54-uom-uop.jsp
+2025-04-19 02:28:18,274 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-54-uom-uop.md
+2025-04-19 02:28:18,275 - markdown_crawler - INFO - Đã lưu checkpoint vào ./lop-1/tieng_viet/index/markdown/checkpoint.json
+2025-04-19 02:28:20,150 - markdown_crawler - INFO - [31/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-55-an-at.jsp
+2025-04-19 02:28:20,490 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-55-an-at.md
+2025-04-19 02:28:21,490 - markdown_crawler - INFO - [32/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-57-on-tap.jsp
+2025-04-19 02:28:21,955 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-57-on-tap.md
+2025-04-19 02:28:22,956 - markdown_crawler - INFO - [33/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-58-an-at.jsp
+2025-04-19 02:28:23,354 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-58-an-at.md
+2025-04-19 02:28:24,356 - markdown_crawler - INFO - [34/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-59-an-at.jsp
+2025-04-19 02:28:24,674 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-59-an-at.md
+2025-04-19 02:28:25,675 - markdown_crawler - INFO - [35/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-60-en-et.jsp
+2025-04-19 02:28:26,012 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-60-en-et.md
+2025-04-19 02:28:26,012 - markdown_crawler - INFO - Đã lưu checkpoint vào ./lop-1/tieng_viet/index/markdown/checkpoint.json
+2025-04-19 02:28:27,820 - markdown_crawler - INFO - [36/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-61-en-et.jsp
+2025-04-19 02:28:28,313 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-61-en-et.md
+2025-04-19 02:28:29,315 - markdown_crawler - INFO - [37/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-63-on-tap.jsp
+2025-04-19 02:28:29,706 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-63-on-tap.md
+2025-04-19 02:28:30,707 - markdown_crawler - INFO - [38/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-64-in-it.jsp
+2025-04-19 02:28:31,097 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-64-in-it.md
+2025-04-19 02:28:32,098 - markdown_crawler - INFO - [39/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-65-ien-iet.jsp
+2025-04-19 02:28:32,488 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-65-ien-iet.md
+2025-04-19 02:28:33,489 - markdown_crawler - INFO - [40/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-66-yen-yet.jsp
+2025-04-19 02:28:33,824 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-66-yen-yet.md
+2025-04-19 02:28:33,824 - markdown_crawler - INFO - Đã lưu checkpoint vào ./lop-1/tieng_viet/index/markdown/checkpoint.json
+2025-04-19 02:28:35,692 - markdown_crawler - INFO - [41/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-67-on-ot.jsp
+2025-04-19 02:28:36,087 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-67-on-ot.md
+2025-04-19 02:28:37,088 - markdown_crawler - INFO - [42/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-69-on-tap.jsp
+2025-04-19 02:28:37,556 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-69-on-tap.md
+2025-04-19 02:28:38,557 - markdown_crawler - INFO - [43/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-70-on-ot.jsp
+2025-04-19 02:28:38,949 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-70-on-ot.md
+2025-04-19 02:28:39,951 - markdown_crawler - INFO - [44/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-71-on-ot.jsp
+2025-04-19 02:28:40,363 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-71-on-ot.md
+2025-04-19 02:28:41,364 - markdown_crawler - INFO - [45/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-72-un-ut-ut.jsp
+2025-04-19 02:28:41,765 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-72-un-ut-ut.md
+2025-04-19 02:28:41,766 - markdown_crawler - INFO - Đã lưu checkpoint vào ./lop-1/tieng_viet/index/markdown/checkpoint.json
+2025-04-19 02:28:43,622 - markdown_crawler - INFO - [46/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-73-uon-uot.jsp
+2025-04-19 02:28:44,031 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-73-uon-uot.md
+2025-04-19 02:28:45,032 - markdown_crawler - INFO - [47/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-75-on-tap.jsp
+2025-04-19 02:28:45,444 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-75-on-tap.md
+2025-04-19 02:28:46,445 - markdown_crawler - INFO - [48/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-76-uon-uot.jsp
+2025-04-19 02:28:46,841 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-76-uon-uot.md
+2025-04-19 02:28:47,843 - markdown_crawler - INFO - [49/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-77-ang-ac.jsp
+2025-04-19 02:28:48,329 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-77-ang-ac.md
+2025-04-19 02:28:49,330 - markdown_crawler - INFO - [50/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-78-ang-ac.jsp
+2025-04-19 02:28:49,717 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-78-ang-ac.md
+2025-04-19 02:28:49,718 - markdown_crawler - INFO - Đã lưu checkpoint vào ./lop-1/tieng_viet/index/markdown/checkpoint.json
+2025-04-19 02:28:51,492 - markdown_crawler - INFO - [51/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-79-ang-ac.jsp
+2025-04-19 02:28:51,987 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-79-ang-ac.md
+2025-04-19 02:28:52,989 - markdown_crawler - INFO - [52/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-81-on-tap.jsp
+2025-04-19 02:28:53,392 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-81-on-tap.md
+2025-04-19 02:28:54,393 - markdown_crawler - INFO - [53/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-82-eng-ec.jsp
+2025-04-19 02:28:54,802 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-82-eng-ec.md
+2025-04-19 02:28:55,804 - markdown_crawler - INFO - [54/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-83-ieng-yeng-iec.jsp
+2025-04-19 02:28:56,210 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-83-ieng-yeng-iec.md
+2025-04-19 02:28:57,211 - markdown_crawler - INFO - [55/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-84-ong-oc.jsp
+2025-04-19 02:28:57,593 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-84-ong-oc.md
+2025-04-19 02:28:57,593 - markdown_crawler - INFO - Đã lưu checkpoint vào ./lop-1/tieng_viet/index/markdown/checkpoint.json
+2025-04-19 02:28:59,515 - markdown_crawler - INFO - [56/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-85-ong-oc.jsp
+2025-04-19 02:29:00,015 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-85-ong-oc.md
+2025-04-19 02:29:01,016 - markdown_crawler - INFO - [57/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-87-on-tap.jsp
+2025-04-19 02:29:01,421 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-87-on-tap.md
+2025-04-19 02:29:02,422 - markdown_crawler - INFO - [58/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-88-ung-uc.jsp
+2025-04-19 02:29:02,768 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-88-ung-uc.md
+2025-04-19 02:29:03,769 - markdown_crawler - INFO - [59/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-89-ung-uc.jsp
+2025-04-19 02:29:04,165 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-89-ung-uc.md
+2025-04-19 02:29:05,166 - markdown_crawler - INFO - [60/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-90-uong-uoc.jsp
+2025-04-19 02:29:05,554 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-90-uong-uoc.md
+2025-04-19 02:29:05,555 - markdown_crawler - INFO - Đã lưu checkpoint vào ./lop-1/tieng_viet/index/markdown/checkpoint.json
+2025-04-19 02:29:07,384 - markdown_crawler - INFO - [61/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-91-uong-uoc.jsp
+2025-04-19 02:29:07,787 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-91-uong-uoc.md
+2025-04-19 02:29:08,787 - markdown_crawler - INFO - [62/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-93-on-tap.jsp
+2025-04-19 02:29:09,183 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-93-on-tap.md
+2025-04-19 02:29:10,184 - markdown_crawler - INFO - [63/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/on-tap-cuoi-hoc-ki-i.jsp
+2025-04-19 02:29:10,528 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/on-tap-cuoi-hoc-ki-i.md
+2025-04-19 02:29:11,529 - markdown_crawler - INFO - [64/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/danh-gia-doc-hieu-viet-hoc-ki-1.jsp
+2025-04-19 02:29:11,884 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/danh-gia-doc-hieu-viet-hoc-ki-1.md
+2025-04-19 02:29:12,885 - markdown_crawler - INFO - [65/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-94-anh-ach.jsp
+2025-04-19 02:29:13,281 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-94-anh-ach.md
+2025-04-19 02:29:13,282 - markdown_crawler - INFO - Đã lưu checkpoint vào ./lop-1/tieng_viet/index/markdown/checkpoint.json
+2025-04-19 02:29:15,133 - markdown_crawler - INFO - [66/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-95-enh-ech.jsp
+2025-04-19 02:29:15,462 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-95-enh-ech.md
+2025-04-19 02:29:16,463 - markdown_crawler - INFO - [67/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-96-inh-ich.jsp
+2025-04-19 02:29:16,873 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-96-inh-ich.md
+2025-04-19 02:29:17,875 - markdown_crawler - INFO - [68/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-97-ai-ay.jsp
+2025-04-19 02:29:18,325 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-97-ai-ay.md
+2025-04-19 02:29:19,326 - markdown_crawler - INFO - [69/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-99-on-tap.jsp
+2025-04-19 02:29:19,810 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-99-on-tap.md
+2025-04-19 02:29:20,811 - markdown_crawler - INFO - [70/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-100-oi-ay.jsp
+2025-04-19 02:29:21,235 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-100-oi-ay.md
+2025-04-19 02:29:21,235 - markdown_crawler - INFO - Đã lưu checkpoint vào ./lop-1/tieng_viet/index/markdown/checkpoint.json
+2025-04-19 02:29:22,989 - markdown_crawler - INFO - [71/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-101-oi-oi.jsp
+2025-04-19 02:29:23,385 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-101-oi-oi.md
+2025-04-19 02:29:24,386 - markdown_crawler - INFO - [72/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-102-ui-ui.jsp
+2025-04-19 02:29:24,787 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-102-ui-ui.md
+2025-04-19 02:29:25,789 - markdown_crawler - INFO - [73/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-103-uoi-uoi.jsp
+2025-04-19 02:29:26,122 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-103-uoi-uoi.md
+2025-04-19 02:29:27,123 - markdown_crawler - INFO - [74/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-105-on-tap.jsp
+2025-04-19 02:29:27,536 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-105-on-tap.md
+2025-04-19 02:29:28,537 - markdown_crawler - INFO - [75/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-106-ao-eo.jsp
+2025-04-19 02:29:28,850 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-106-ao-eo.md
+2025-04-19 02:29:28,851 - markdown_crawler - INFO - Đã lưu checkpoint vào ./lop-1/tieng_viet/index/markdown/checkpoint.json
+2025-04-19 02:29:30,655 - markdown_crawler - INFO - [76/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-107-au-au.jsp
+2025-04-19 02:29:31,074 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-107-au-au.md
+2025-04-19 02:29:32,074 - markdown_crawler - INFO - [77/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-108-eu-iu.jsp
+2025-04-19 02:29:32,472 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-108-eu-iu.md
+2025-04-19 02:29:33,473 - markdown_crawler - INFO - [78/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-109-ieu-yeu.jsp
+2025-04-19 02:29:33,934 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-109-ieu-yeu.md
+2025-04-19 02:29:34,935 - markdown_crawler - INFO - [79/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-111-on-tap.jsp
+2025-04-19 02:29:35,311 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-111-on-tap.md
+2025-04-19 02:29:36,313 - markdown_crawler - INFO - [80/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-112-uu-uou.jsp
+2025-04-19 02:29:36,705 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-112-uu-uou.md
+2025-04-19 02:29:36,706 - markdown_crawler - INFO - Đã lưu checkpoint vào ./lop-1/tieng_viet/index/markdown/checkpoint.json
+2025-04-19 02:29:38,549 - markdown_crawler - INFO - [81/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-113-oa-oe.jsp
+2025-04-19 02:29:38,939 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-113-oa-oe.md
+2025-04-19 02:29:39,940 - markdown_crawler - INFO - [82/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-114-ue-uo.jsp
+2025-04-19 02:29:40,326 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-114-ue-uo.md
+2025-04-19 02:29:41,327 - markdown_crawler - INFO - [83/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-115-uy-uya.jsp
+2025-04-19 02:29:41,662 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-115-uy-uya.md
+2025-04-19 02:29:42,663 - markdown_crawler - INFO - [84/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-117-on-tap.jsp
+2025-04-19 02:29:43,038 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-117-on-tap.md
+2025-04-19 02:29:44,039 - markdown_crawler - INFO - [85/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-118-oam-oam.jsp
+2025-04-19 02:29:44,431 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-118-oam-oam.md
+2025-04-19 02:29:44,432 - markdown_crawler - INFO - Đã lưu checkpoint vào ./lop-1/tieng_viet/index/markdown/checkpoint.json
+2025-04-19 02:29:46,277 - markdown_crawler - INFO - [86/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-119-oan-oat.jsp
+2025-04-19 02:29:46,594 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-119-oan-oat.md
+2025-04-19 02:29:47,596 - markdown_crawler - INFO - [87/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-120-oan-oat.jsp
+2025-04-19 02:29:47,923 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-120-oan-oat.md
+2025-04-19 02:29:48,925 - markdown_crawler - INFO - [88/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-121-uan-uat.jsp
+2025-04-19 02:29:49,319 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-121-uan-uat.md
+2025-04-19 02:29:50,320 - markdown_crawler - INFO - [89/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-123-on-tap.jsp
+2025-04-19 02:29:50,734 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-123-on-tap.md
+2025-04-19 02:29:51,735 - markdown_crawler - INFO - [90/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-124-oen-oet.jsp
+2025-04-19 02:29:52,078 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-124-oen-oet.md
+2025-04-19 02:29:52,079 - markdown_crawler - INFO - Đã lưu checkpoint vào ./lop-1/tieng_viet/index/markdown/checkpoint.json
+2025-04-19 02:29:53,834 - markdown_crawler - INFO - [91/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-125-uyen-uyet.jsp
+2025-04-19 02:29:54,242 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-125-uyen-uyet.md
+2025-04-19 02:29:55,244 - markdown_crawler - INFO - [92/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-126-uyn-uyt.jsp
+2025-04-19 02:29:55,577 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-126-uyn-uyt.md
+2025-04-19 02:29:56,578 - markdown_crawler - INFO - [93/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-127-oang-oac.jsp
+2025-04-19 02:29:57,033 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-127-oang-oac.md
+2025-04-19 02:29:58,034 - markdown_crawler - INFO - [94/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-129-on-tap.jsp
+2025-04-19 02:29:58,414 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-129-on-tap.md
+2025-04-19 02:29:59,415 - markdown_crawler - INFO - [95/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-130-oang-oac.jsp
+2025-04-19 02:29:59,752 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-130-oang-oac.md
+2025-04-19 02:29:59,752 - markdown_crawler - INFO - Đã lưu checkpoint vào ./lop-1/tieng_viet/index/markdown/checkpoint.json
+2025-04-19 02:30:01,536 - markdown_crawler - INFO - [96/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-131-oanh-oach.jsp
+2025-04-19 02:30:02,006 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-131-oanh-oach.md
+2025-04-19 02:30:03,007 - markdown_crawler - INFO - [97/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-132-uenh-uech.jsp
+2025-04-19 02:30:03,483 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-132-uenh-uech.md
+2025-04-19 02:30:04,484 - markdown_crawler - INFO - [98/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-133-uynh-uych.jsp
+2025-04-19 02:30:04,819 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-133-uynh-uych.md
+2025-04-19 02:30:05,821 - markdown_crawler - INFO - [99/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-135-on-tap.jsp
+2025-04-19 02:30:06,204 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-135-on-tap.md
+2025-04-19 02:30:07,205 - markdown_crawler - INFO - [100/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-136-oai-oay-uay.jsp
+2025-04-19 02:30:07,603 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-136-oai-oay-uay.md
+2025-04-19 02:30:07,604 - markdown_crawler - INFO - Đã lưu checkpoint vào ./lop-1/tieng_viet/index/markdown/checkpoint.json
+2025-04-19 02:30:09,456 - markdown_crawler - INFO - [101/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/bai-137-van-it-gap.jsp
+2025-04-19 02:30:10,221 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/bai-137-van-it-gap.md
+2025-04-19 02:30:11,222 - markdown_crawler - INFO - [102/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/on-tap-giua-hoc-ki-ii.jsp
+2025-04-19 02:30:11,699 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/on-tap-giua-hoc-ki-ii.md
+2025-04-19 02:30:12,700 - markdown_crawler - INFO - [103/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/chu-diem-1-gia-dinh.jsp
+2025-04-19 02:30:13,149 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/chu-diem-1-gia-dinh.md
+2025-04-19 02:30:14,149 - markdown_crawler - INFO - [104/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/chu-diem-2-truong-hoc.jsp
+2025-04-19 02:30:14,702 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/chu-diem-2-truong-hoc.md
+2025-04-19 02:30:15,703 - markdown_crawler - INFO - [105/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/chu-diem-3-thien-nhien.jsp
+2025-04-19 02:30:16,161 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/chu-diem-3-thien-nhien.md
+2025-04-19 02:30:16,161 - markdown_crawler - INFO - Đã lưu checkpoint vào ./lop-1/tieng_viet/index/markdown/checkpoint.json
+2025-04-19 02:30:17,984 - markdown_crawler - INFO - [106/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/chu-diem-4-gia-dinh.jsp
+2025-04-19 02:30:18,417 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/chu-diem-4-gia-dinh.md
+2025-04-19 02:30:19,418 - markdown_crawler - INFO - [107/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/chu-diem-5-truong-hoc.jsp
+2025-04-19 02:30:19,865 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/chu-diem-5-truong-hoc.md
+2025-04-19 02:30:20,867 - markdown_crawler - INFO - [108/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/chu-diem-6-thien-nhien.jsp
+2025-04-19 02:30:21,412 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/chu-diem-6-thien-nhien.md
+2025-04-19 02:30:22,413 - markdown_crawler - INFO - [109/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/chu-diem-7-gia-dinh.jsp
+2025-04-19 02:30:22,894 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/chu-diem-7-gia-dinh.md
+2025-04-19 02:30:23,896 - markdown_crawler - INFO - [110/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/chu-diem-8-truong-hoc.jsp
+2025-04-19 02:30:24,288 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/chu-diem-8-truong-hoc.md
+2025-04-19 02:30:24,289 - markdown_crawler - INFO - Đã lưu checkpoint vào ./lop-1/tieng_viet/index/markdown/checkpoint.json
+2025-04-19 02:30:26,120 - markdown_crawler - INFO - [111/114] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/on-tap-cuoi-nam.jsp
+2025-04-19 02:30:26,540 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/on-tap-cuoi-nam.md
+2025-04-19 02:30:27,541 - markdown_crawler - INFO - [112/114] Đang crawl: https://www.vietjack.com/de-kiem-tra-lop-1/de-kiem-tra-toan-lop-1.jsp
+2025-04-19 02:30:28,351 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/de-kiem-tra-toan-lop-1.md
+2025-04-19 02:30:29,352 - markdown_crawler - INFO - [113/114] Đang crawl: https://www.vietjack.com/de-kiem-tra-lop-1/de-kiem-tra-tieng-viet-lop-1.jsp
+2025-04-19 02:30:30,079 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/de-kiem-tra-tieng-viet-lop-1.md
+2025-04-19 02:30:31,080 - markdown_crawler - INFO - [114/114] Đang crawl: https://www.vietjack.com/de-kiem-tra-lop-1/de-kiem-tra-tieng-anh-lop-1.jsp
+2025-04-19 02:30:31,628 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/tieng_viet/index/markdown/de-kiem-tra-tieng-anh-lop-1.md
+2025-04-19 02:30:31,629 - markdown_crawler - INFO - Đã lưu checkpoint vào ./lop-1/tieng_viet/index/markdown/checkpoint.json
+2025-04-19 02:30:33,464 - markdown_crawler - INFO - Đã lưu checkpoint vào ./lop-1/tieng_viet/index/markdown/checkpoint.json
+2025-04-19 02:30:33,464 - markdown_crawler - INFO - Hoàn thành! Đã crawl và lưu 114 trang vào thư mục ./lop-1/tieng_viet/index/markdown
+2025-04-19 02:30:34,368 - markdown_crawler - INFO - 
+=== [2/3] Đang xử lý: lop-1 - Toán ===
+2025-04-19 02:30:35,178 - markdown_crawler - INFO - Tổng số URL: 45
+2025-04-19 02:30:35,178 - markdown_crawler - INFO - Số URL đã crawl: 0
+2025-04-19 02:30:35,178 - markdown_crawler - INFO - Số URL cần crawl: 45
+2025-04-19 02:30:35,936 - markdown_crawler - INFO - [1/45] Đang crawl: https://www.vietjack.com/vbt-toan-1-cd/bai-39-cac-so-11-12-13-14-15-16.jsp
+2025-04-19 02:30:36,330 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/index/markdown/bai-39-cac-so-11-12-13-14-15-16.md
+2025-04-19 02:30:37,331 - markdown_crawler - INFO - [2/45] Đang crawl: https://www.vietjack.com/vbt-toan-1-cd/bai-40-cac-so-17-18-19-20.jsp
+2025-04-19 02:30:37,736 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/index/markdown/bai-40-cac-so-17-18-19-20.md
+2025-04-19 02:30:38,737 - markdown_crawler - INFO - [3/45] Đang crawl: https://www.vietjack.com/vbt-toan-1-cd/bai-41-luyen-tap.jsp
+2025-04-19 02:30:39,124 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/index/markdown/bai-41-luyen-tap.md
+2025-04-19 02:30:40,125 - markdown_crawler - INFO - [4/45] Đang crawl: https://www.vietjack.com/vbt-toan-1-cd/bai-42-cac-so-10-20-30-40-50-60-70-80-90.jsp
+2025-04-19 02:30:40,443 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/index/markdown/bai-42-cac-so-10-20-30-40-50-60-70-80-90.md
+2025-04-19 02:30:41,444 - markdown_crawler - INFO - [5/45] Đang crawl: https://www.vietjack.com/vbt-toan-1-cd/bai-43-cac-so-co-hai-chu-so-tu-21-den-40.jsp
+2025-04-19 02:30:41,805 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/index/markdown/bai-43-cac-so-co-hai-chu-so-tu-21-den-40.md
+2025-04-19 02:30:41,805 - markdown_crawler - INFO - Đã lưu checkpoint vào ./lop-1/toan/index/markdown/checkpoint.json
+2025-04-19 02:30:43,640 - markdown_crawler - INFO - [6/45] Đang crawl: https://www.vietjack.com/vbt-toan-1-cd/bai-44-cac-so-co-hai-chu-so-tu-41-den-70.jsp
+2025-04-19 02:30:44,092 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/index/markdown/bai-44-cac-so-co-hai-chu-so-tu-41-den-70.md
+2025-04-19 02:30:45,093 - markdown_crawler - INFO - [7/45] Đang crawl: https://www.vietjack.com/vbt-toan-1-cd/bai-45-cac-so-co-hai-chu-so-tu-71-den-99.jsp
+2025-04-19 02:30:45,636 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/index/markdown/bai-45-cac-so-co-hai-chu-so-tu-71-den-99.md
+2025-04-19 02:30:46,637 - markdown_crawler - INFO - [8/45] Đang crawl: https://www.vietjack.com/vbt-toan-1-cd/bai-46-cac-so-den-100.jsp
+2025-04-19 02:30:47,075 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/index/markdown/bai-46-cac-so-den-100.md
+2025-04-19 02:30:48,076 - markdown_crawler - INFO - [9/45] Đang crawl: https://www.vietjack.com/vbt-toan-1-cd/bai-47-chuc-va-don-vi.jsp
+2025-04-19 02:30:48,485 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/index/markdown/bai-47-chuc-va-don-vi.md
+2025-04-19 02:30:49,487 - markdown_crawler - INFO - [10/45] Đang crawl: https://www.vietjack.com/vbt-toan-1-cd/bai-48-luyen-tap.jsp
+2025-04-19 02:30:49,937 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/index/markdown/bai-48-luyen-tap.md
+2025-04-19 02:30:49,937 - markdown_crawler - INFO - Đã lưu checkpoint vào ./lop-1/toan/index/markdown/checkpoint.json
+2025-04-19 02:30:51,845 - markdown_crawler - INFO - [11/45] Đang crawl: https://www.vietjack.com/vbt-toan-1-cd/bai-49-so-sanh-cac-so-trong-pham-vi-100.jsp
+2025-04-19 02:30:52,168 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/index/markdown/bai-49-so-sanh-cac-so-trong-pham-vi-100.md
+2025-04-19 02:30:53,169 - markdown_crawler - INFO - [12/45] Đang crawl: https://www.vietjack.com/vbt-toan-1-cd/bai-50-luyen-tap.jsp
+2025-04-19 02:30:53,599 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/index/markdown/bai-50-luyen-tap.md
+2025-04-19 02:30:54,601 - markdown_crawler - INFO - [13/45] Đang crawl: https://www.vietjack.com/vbt-toan-1-cd/bai-51-dai-hon-ngan-hon.jsp
+2025-04-19 02:30:54,926 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/index/markdown/bai-51-dai-hon-ngan-hon.md
+2025-04-19 02:30:55,927 - markdown_crawler - INFO - [14/45] Đang crawl: https://www.vietjack.com/vbt-toan-1-cd/bai-52-do-do-dai.jsp
+2025-04-19 02:30:56,366 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/index/markdown/bai-52-do-do-dai.md
+2025-04-19 02:30:57,367 - markdown_crawler - INFO - [15/45] Đang crawl: https://www.vietjack.com/vbt-toan-1-cd/bai-53-xang-ti-met.jsp
+2025-04-19 02:30:57,790 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/index/markdown/bai-53-xang-ti-met.md
+2025-04-19 02:30:57,790 - markdown_crawler - INFO - Đã lưu checkpoint vào ./lop-1/toan/index/markdown/checkpoint.json
+2025-04-19 02:30:59,588 - markdown_crawler - INFO - [16/45] Đang crawl: https://www.vietjack.com/vbt-toan-1-cd/bai-54-em-on-lai-nhung-gi-da-hoc.jsp
+2025-04-19 02:31:00,015 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/index/markdown/bai-54-em-on-lai-nhung-gi-da-hoc.md
+2025-04-19 02:31:01,016 - markdown_crawler - INFO - [17/45] Đang crawl: https://www.vietjack.com/vbt-toan-1-cd/bai-55-bai-kiem-tra-so-3.jsp
+2025-04-19 02:31:01,429 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/index/markdown/bai-55-bai-kiem-tra-so-3.md
+2025-04-19 02:31:02,430 - markdown_crawler - INFO - [18/45] Đang crawl: https://www.vietjack.com/vbt-toan-1-cd/bai-56-phep-cong-dang-14-3.jsp
+2025-04-19 02:31:02,820 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/index/markdown/bai-56-phep-cong-dang-14-3.md
+2025-04-19 02:31:03,821 - markdown_crawler - INFO - [19/45] Đang crawl: https://www.vietjack.com/vbt-toan-1-cd/bai-57-phep-tru-dang-17-2.jsp
+2025-04-19 02:31:04,206 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/index/markdown/bai-57-phep-tru-dang-17-2.md
+2025-04-19 02:31:05,208 - markdown_crawler - INFO - [20/45] Đang crawl: https://www.vietjack.com/vbt-toan-1-cd/bai-58-luyen-tap.jsp
+2025-04-19 02:31:05,558 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/index/markdown/bai-58-luyen-tap.md
+2025-04-19 02:31:05,559 - markdown_crawler - INFO - Đã lưu checkpoint vào ./lop-1/toan/index/markdown/checkpoint.json
+2025-04-19 02:31:07,449 - markdown_crawler - INFO - [21/45] Đang crawl: https://www.vietjack.com/vbt-toan-1-cd/bai-59-cong-tru-cac-so-tron-chuc.jsp
+2025-04-19 02:31:07,921 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/index/markdown/bai-59-cong-tru-cac-so-tron-chuc.md
+2025-04-19 02:31:08,922 - markdown_crawler - INFO - [22/45] Đang crawl: https://www.vietjack.com/vbt-toan-1-cd/bai-60-phep-cong-dang-25-24.jsp
+2025-04-19 02:31:09,277 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/index/markdown/bai-60-phep-cong-dang-25-24.md
+2025-04-19 02:31:10,278 - markdown_crawler - INFO - [23/45] Đang crawl: https://www.vietjack.com/vbt-toan-1-cd/bai-61-phep-cong-dang-25-4-25-40.jsp
+2025-04-19 02:31:10,690 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/index/markdown/bai-61-phep-cong-dang-25-4-25-40.md
+2025-04-19 02:31:11,692 - markdown_crawler - INFO - [24/45] Đang crawl: https://www.vietjack.com/vbt-toan-1-cd/bai-62-luyen-tap.jsp
+2025-04-19 02:31:12,103 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/index/markdown/bai-62-luyen-tap.md
+2025-04-19 02:31:13,104 - markdown_crawler - INFO - [25/45] Đang crawl: https://www.vietjack.com/vbt-toan-1-cd/bai-63-phep-tru-dang-39-15.jsp
+2025-04-19 02:31:13,444 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/index/markdown/bai-63-phep-tru-dang-39-15.md
+2025-04-19 02:31:13,445 - markdown_crawler - INFO - Đã lưu checkpoint vào ./lop-1/toan/index/markdown/checkpoint.json
+2025-04-19 02:31:15,203 - markdown_crawler - INFO - [26/45] Đang crawl: https://www.vietjack.com/vbt-toan-1-cd/bai-64-phep-tru-dang-27-4-63-40.jsp
+2025-04-19 02:31:15,542 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/index/markdown/bai-64-phep-tru-dang-27-4-63-40.md
+2025-04-19 02:31:16,544 - markdown_crawler - INFO - [27/45] Đang crawl: https://www.vietjack.com/vbt-toan-1-cd/bai-65-luyen-tap.jsp
+2025-04-19 02:31:17,016 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/index/markdown/bai-65-luyen-tap.md
+2025-04-19 02:31:18,017 - markdown_crawler - INFO - [28/45] Đang crawl: https://www.vietjack.com/vbt-toan-1-cd/bai-66-luyen-tap-chung.jsp
+2025-04-19 02:31:18,414 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/index/markdown/bai-66-luyen-tap-chung.md
+2025-04-19 02:31:19,415 - markdown_crawler - INFO - [29/45] Đang crawl: https://www.vietjack.com/vbt-toan-1-cd/bai-67-cac-ngay-trong-tuan-le.jsp
+2025-04-19 02:31:19,811 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/index/markdown/bai-67-cac-ngay-trong-tuan-le.md
+2025-04-19 02:31:20,813 - markdown_crawler - INFO - [30/45] Đang crawl: https://www.vietjack.com/vbt-toan-1-cd/bai-68-dong-ho-thoi-gian.jsp
+2025-04-19 02:31:21,192 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/index/markdown/bai-68-dong-ho-thoi-gian.md
+2025-04-19 02:31:21,192 - markdown_crawler - INFO - Đã lưu checkpoint vào ./lop-1/toan/index/markdown/checkpoint.json
+2025-04-19 02:31:23,073 - markdown_crawler - INFO - [31/45] Đang crawl: https://www.vietjack.com/vbt-toan-1-cd/bai-69-em-on-lai-nhung-gi-da-hoc.jsp
+2025-04-19 02:31:23,498 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/index/markdown/bai-69-em-on-lai-nhung-gi-da-hoc.md
+2025-04-19 02:31:24,499 - markdown_crawler - INFO - [32/45] Đang crawl: https://www.vietjack.com/vbt-toan-1-cd/bai-70-bai-kiem-tra-so-4.jsp
+2025-04-19 02:31:24,846 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/index/markdown/bai-70-bai-kiem-tra-so-4.md
+2025-04-19 02:31:25,846 - markdown_crawler - INFO - [33/45] Đang crawl: https://www.vietjack.com/vbt-toan-1-cd/bai-71-on-tap-cac-so-trong-pham-vi-10.jsp
+2025-04-19 02:31:26,253 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/index/markdown/bai-71-on-tap-cac-so-trong-pham-vi-10.md
+2025-04-19 02:31:27,253 - markdown_crawler - INFO - [34/45] Đang crawl: https://www.vietjack.com/vbt-toan-1-cd/bai-72-on-tap-phep-cong-phep-tru-trong-pham-vi-10.jsp
+2025-04-19 02:31:27,674 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/index/markdown/bai-72-on-tap-phep-cong-phep-tru-trong-pham-vi-10.md
+2025-04-19 02:31:28,675 - markdown_crawler - INFO - [35/45] Đang crawl: https://www.vietjack.com/vbt-toan-1-cd/bai-73-on-tap-cac-so-trong-pham-vi-100.jsp
+2025-04-19 02:31:29,033 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/index/markdown/bai-73-on-tap-cac-so-trong-pham-vi-100.md
+2025-04-19 02:31:29,033 - markdown_crawler - INFO - Đã lưu checkpoint vào ./lop-1/toan/index/markdown/checkpoint.json
+2025-04-19 02:31:30,881 - markdown_crawler - INFO - [36/45] Đang crawl: https://www.vietjack.com/vbt-toan-1-cd/bai-74-on-tap-phep-cong-phep-tru-trong-pham-vi-100.jsp
+2025-04-19 02:31:31,228 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/index/markdown/bai-74-on-tap-phep-cong-phep-tru-trong-pham-vi-100.md
+2025-04-19 02:31:32,229 - markdown_crawler - INFO - [37/45] Đang crawl: https://www.vietjack.com/vbt-toan-1-cd/bai-75-on-tap-ve-thoi-gian.jsp
+2025-04-19 02:31:32,626 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/index/markdown/bai-75-on-tap-ve-thoi-gian.md
+2025-04-19 02:31:33,627 - markdown_crawler - INFO - [38/45] Đang crawl: https://www.vietjack.com/vbt-toan-1-cd/bai-76-on-tap.jsp
+2025-04-19 02:31:34,038 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/index/markdown/bai-76-on-tap.md
+2025-04-19 02:31:35,038 - markdown_crawler - INFO - [39/45] Đang crawl: https://www.vietjack.com/de-kiem-tra-lop-1/de-kiem-tra-toan-lop-1.jsp
+2025-04-19 02:31:35,862 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/index/markdown/de-kiem-tra-toan-lop-1.md
+2025-04-19 02:31:36,863 - markdown_crawler - INFO - [40/45] Đang crawl: https://www.vietjack.com/de-kiem-tra-lop-1/de-kiem-tra-tieng-viet-lop-1.jsp
+2025-04-19 02:31:37,739 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/index/markdown/de-kiem-tra-tieng-viet-lop-1.md
+2025-04-19 02:31:37,739 - markdown_crawler - INFO - Đã lưu checkpoint vào ./lop-1/toan/index/markdown/checkpoint.json
+2025-04-19 02:31:39,485 - markdown_crawler - INFO - [41/45] Đang crawl: https://www.vietjack.com/de-kiem-tra-lop-1/de-kiem-tra-tieng-anh-lop-1.jsp
+2025-04-19 02:31:39,965 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/index/markdown/de-kiem-tra-tieng-anh-lop-1.md
+2025-04-19 02:31:40,967 - markdown_crawler - INFO - [42/45] Đang crawl: https://www.vietjack.com/toan-1-ket-noi/index.jsp
+2025-04-19 02:31:41,383 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/index/markdown/index.md
+2025-04-19 02:31:42,384 - markdown_crawler - INFO - [43/45] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-kn/index.jsp
+2025-04-19 02:31:42,816 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/index/markdown/index.md
+2025-04-19 02:31:43,817 - markdown_crawler - INFO - [44/45] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-ct/index.jsp
+2025-04-19 02:31:44,199 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/index/markdown/index.md
+2025-04-19 02:31:45,200 - markdown_crawler - INFO - [45/45] Đang crawl: https://www.vietjack.com/vbt-tieng-viet-1-cd/index.jsp
+2025-04-19 02:31:45,675 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/index/markdown/index.md
+2025-04-19 02:31:45,675 - markdown_crawler - INFO - Đã lưu checkpoint vào ./lop-1/toan/index/markdown/checkpoint.json
+2025-04-19 02:31:47,539 - markdown_crawler - INFO - Đã lưu checkpoint vào ./lop-1/toan/index/markdown/checkpoint.json
+2025-04-19 02:31:47,539 - markdown_crawler - INFO - Hoàn thành! Đã crawl và lưu 45 trang vào thư mục ./lop-1/toan/index/markdown
+2025-04-19 02:31:48,456 - markdown_crawler - INFO - 
+=== [3/3] Đang xử lý: lop-1 - Toán ===
+2025-04-19 02:31:49,245 - markdown_crawler - INFO - Tổng số URL: 70
+2025-04-19 02:31:49,245 - markdown_crawler - INFO - Số URL đã crawl: 0
+2025-04-19 02:31:49,245 - markdown_crawler - INFO - Số URL cần crawl: 70
+2025-04-19 02:31:49,992 - markdown_crawler - INFO - [1/70] Đang crawl: https://www.vietjack.com/toan-1-ket-noi/ly-thuyet-vi-tri.jsp
+2025-04-19 02:31:50,644 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/ly-thuyet-vi-tri.md
+2025-04-19 02:31:51,645 - markdown_crawler - INFO - [2/70] Đang crawl: https://www.vietjack.com/toan-1-ket-noi/ly-thuyet-khoi-hop-chu-nhat-khoi-lap-phuong.jsp
+2025-04-19 02:31:52,083 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/ly-thuyet-khoi-hop-chu-nhat-khoi-lap-phuong.md
+2025-04-19 02:31:53,084 - markdown_crawler - INFO - [3/70] Đang crawl: https://www.vietjack.com/toan-1-ket-noi/ly-thuyet-hinh-tron-hinh-tam-giac-hinh-vuong-hinh-chu-nhat.jsp
+2025-04-19 02:31:53,584 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/ly-thuyet-hinh-tron-hinh-tam-giac-hinh-vuong-hinh-chu-nhat.md
+2025-04-19 02:31:54,585 - markdown_crawler - INFO - [4/70] Đang crawl: https://www.vietjack.com/toan-1-ket-noi/ly-thuyet-xep-hinh.jsp
+2025-04-19 02:31:55,095 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/ly-thuyet-xep-hinh.md
+2025-04-19 02:31:56,095 - markdown_crawler - INFO - [5/70] Đang crawl: https://www.vietjack.com/toan-1-ket-noi/ly-thuyet-cac-so-1-2-3.jsp
+2025-04-19 02:31:56,549 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/ly-thuyet-cac-so-1-2-3.md
+2025-04-19 02:31:56,549 - markdown_crawler - INFO - Đã lưu checkpoint vào ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/checkpoint.json
+2025-04-19 02:31:58,291 - markdown_crawler - INFO - [6/70] Đang crawl: https://www.vietjack.com/toan-1-ket-noi/ly-thuyet-cac-so-4-5.jsp
+2025-04-19 02:31:58,691 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/ly-thuyet-cac-so-4-5.md
+2025-04-19 02:31:59,693 - markdown_crawler - INFO - [7/70] Đang crawl: https://www.vietjack.com/toan-1-ket-noi/ly-thuyet-tach-gop-so.jsp
+2025-04-19 02:32:00,307 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/ly-thuyet-tach-gop-so.md
+2025-04-19 02:32:01,308 - markdown_crawler - INFO - [8/70] Đang crawl: https://www.vietjack.com/toan-1-ket-noi/ly-thuyet-bang-nhau-nhieu-hon-it-hon.jsp
+2025-04-19 02:32:01,823 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/ly-thuyet-bang-nhau-nhieu-hon-it-hon.md
+2025-04-19 02:32:02,824 - markdown_crawler - INFO - [9/70] Đang crawl: https://www.vietjack.com/toan-1-ket-noi/ly-thuyet-so-sanh-cac-so-bang-lon-hon-be-hon.jsp
+2025-04-19 02:32:03,209 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/ly-thuyet-so-sanh-cac-so-bang-lon-hon-be-hon.md
+2025-04-19 02:32:04,210 - markdown_crawler - INFO - [10/70] Đang crawl: https://www.vietjack.com/toan-1-ket-noi/ly-thuyet-cac-dau.jsp
+2025-04-19 02:32:04,597 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/ly-thuyet-cac-dau.md
+2025-04-19 02:32:04,597 - markdown_crawler - INFO - Đã lưu checkpoint vào ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/checkpoint.json
+2025-04-19 02:32:06,392 - markdown_crawler - INFO - [11/70] Đang crawl: https://www.vietjack.com/toan-1-ket-noi/ly-thuyet-so-6.jsp
+2025-04-19 02:32:07,046 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/ly-thuyet-so-6.md
+2025-04-19 02:32:08,048 - markdown_crawler - INFO - [12/70] Đang crawl: https://www.vietjack.com/toan-1-ket-noi/ly-thuyet-so-7.jsp
+2025-04-19 02:32:08,685 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/ly-thuyet-so-7.md
+2025-04-19 02:32:09,687 - markdown_crawler - INFO - [13/70] Đang crawl: https://www.vietjack.com/toan-1-ket-noi/ly-thuyet-so-8.jsp
+2025-04-19 02:32:10,228 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/ly-thuyet-so-8.md
+2025-04-19 02:32:11,229 - markdown_crawler - INFO - [14/70] Đang crawl: https://www.vietjack.com/toan-1-ket-noi/ly-thuyet-so-9.jsp
+2025-04-19 02:32:11,672 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/ly-thuyet-so-9.md
+2025-04-19 02:32:12,673 - markdown_crawler - INFO - [15/70] Đang crawl: https://www.vietjack.com/toan-1-ket-noi/ly-thuyet-so-0.jsp
+2025-04-19 02:32:13,299 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/ly-thuyet-so-0.md
+2025-04-19 02:32:13,300 - markdown_crawler - INFO - Đã lưu checkpoint vào ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/checkpoint.json
+2025-04-19 02:32:15,123 - markdown_crawler - INFO - [16/70] Đang crawl: https://www.vietjack.com/toan-1-ket-noi/ly-thuyet-so-10.jsp
+2025-04-19 02:32:15,580 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/ly-thuyet-so-10.md
+2025-04-19 02:32:16,581 - markdown_crawler - INFO - [17/70] Đang crawl: https://www.vietjack.com/toan-1-ket-noi/ly-thuyet-phep-cong.jsp
+2025-04-19 02:32:16,950 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/ly-thuyet-phep-cong.md
+2025-04-19 02:32:17,950 - markdown_crawler - INFO - [18/70] Đang crawl: https://www.vietjack.com/toan-1-ket-noi/ly-thuyet-phep-cong-trong-pham-vi-10.jsp
+2025-04-19 02:32:18,265 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/ly-thuyet-phep-cong-trong-pham-vi-10.md
+2025-04-19 02:32:19,267 - markdown_crawler - INFO - [19/70] Đang crawl: https://www.vietjack.com/toan-1-ket-noi/ly-thuyet-cong-bang-cach-dem-them.jsp
+2025-04-19 02:32:20,001 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/ly-thuyet-cong-bang-cach-dem-them.md
+2025-04-19 02:32:21,002 - markdown_crawler - INFO - [20/70] Đang crawl: https://www.vietjack.com/toan-1-ket-noi/ly-thuyet-phep-tru.jsp
+2025-04-19 02:32:21,568 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/ly-thuyet-phep-tru.md
+2025-04-19 02:32:21,568 - markdown_crawler - INFO - Đã lưu checkpoint vào ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/checkpoint.json
+2025-04-19 02:32:23,365 - markdown_crawler - INFO - [21/70] Đang crawl: https://www.vietjack.com/toan-1-ket-noi/ly-thuyet-phep-tru-trong-pham-vi-10.jsp
+2025-04-19 02:32:24,129 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/ly-thuyet-phep-tru-trong-pham-vi-10.md
+2025-04-19 02:32:25,130 - markdown_crawler - INFO - [22/70] Đang crawl: https://www.vietjack.com/toan-1-ket-noi/ly-thuyet-tru-bang-cach-dem-bot.jsp
+2025-04-19 02:32:25,884 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/ly-thuyet-tru-bang-cach-dem-bot.md
+2025-04-19 02:32:26,885 - markdown_crawler - INFO - [23/70] Đang crawl: https://www.vietjack.com/toan-1-ket-noi/ly-thuyet-cac-phep-tinh-dang-10-4-14-4.jsp
+2025-04-19 02:32:27,516 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/ly-thuyet-cac-phep-tinh-dang-10-4-14-4.md
+2025-04-19 02:32:28,517 - markdown_crawler - INFO - [24/70] Đang crawl: https://www.vietjack.com/toan-1-ket-noi/ly-thuyet-cac-phep-tinh-dang-12-3-15-3.jsp
+2025-04-19 02:32:29,216 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/ly-thuyet-cac-phep-tinh-dang-12-3-15-3.md
+2025-04-19 02:32:30,217 - markdown_crawler - INFO - [25/70] Đang crawl: https://www.vietjack.com/toan-1-ket-noi/ly-thuyet-chiec-dong-ho-cua-em.jsp
+2025-04-19 02:32:30,839 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/ly-thuyet-chiec-dong-ho-cua-em.md
+2025-04-19 02:32:30,839 - markdown_crawler - INFO - Đã lưu checkpoint vào ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/checkpoint.json
+2025-04-19 02:32:32,622 - markdown_crawler - INFO - [26/70] Đang crawl: https://www.vietjack.com/toan-1-ket-noi/ly-thuyet-chuc-so-tron-chuc.jsp
+2025-04-19 02:32:33,227 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/ly-thuyet-chuc-so-tron-chuc.md
+2025-04-19 02:32:34,228 - markdown_crawler - INFO - [27/70] Đang crawl: https://www.vietjack.com/toan-1-ket-noi/ly-thuyet-cac-phep-tinh-dang-30-20-50-20.jsp
+2025-04-19 02:32:35,013 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/ly-thuyet-cac-phep-tinh-dang-30-20-50-20.md
+2025-04-19 02:32:36,014 - markdown_crawler - INFO - [28/70] Đang crawl: https://www.vietjack.com/toan-1-ket-noi/ly-thuyet-chuc-don-vi.jsp
+2025-04-19 02:32:36,587 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/ly-thuyet-chuc-don-vi.md
+2025-04-19 02:32:37,588 - markdown_crawler - INFO - [29/70] Đang crawl: https://www.vietjack.com/toan-1-ket-noi/ly-thuyet-cac-so-den-40.jsp
+2025-04-19 02:32:38,290 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/ly-thuyet-cac-so-den-40.md
+2025-04-19 02:32:39,291 - markdown_crawler - INFO - [30/70] Đang crawl: https://www.vietjack.com/toan-1-ket-noi/ly-thuyet-so-sanh-cac-so.jsp
+2025-04-19 02:32:39,943 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/ly-thuyet-so-sanh-cac-so.md
+2025-04-19 02:32:39,943 - markdown_crawler - INFO - Đã lưu checkpoint vào ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/checkpoint.json
+2025-04-19 02:32:41,784 - markdown_crawler - INFO - [31/70] Đang crawl: https://www.vietjack.com/toan-1-ket-noi/ly-thuyet-cac-so-den-100.jsp
+2025-04-19 02:32:42,440 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/ly-thuyet-cac-so-den-100.md
+2025-04-19 02:32:43,441 - markdown_crawler - INFO - [32/70] Đang crawl: https://www.vietjack.com/toan-1-ket-noi/ly-thuyet-bang-cac-so-tu-1-den-100.jsp
+2025-04-19 02:32:44,001 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/ly-thuyet-bang-cac-so-tu-1-den-100.md
+2025-04-19 02:32:45,002 - markdown_crawler - INFO - [33/70] Đang crawl: https://www.vietjack.com/toan-1-ket-noi/ly-thuyet-cac-phep-tinh-dang-34-23-57-23.jsp
+2025-04-19 02:32:45,601 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/ly-thuyet-cac-phep-tinh-dang-34-23-57-23.md
+2025-04-19 02:32:46,602 - markdown_crawler - INFO - [34/70] Đang crawl: https://www.vietjack.com/toan-1-ket-noi/ly-thuyet-cac-ngay-trong-tuan.jsp
+2025-04-19 02:32:47,144 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/ly-thuyet-cac-ngay-trong-tuan.md
+2025-04-19 02:32:48,145 - markdown_crawler - INFO - [35/70] Đang crawl: https://www.vietjack.com/toan-1-ket-noi/ly-thuyet-to-lich-cua-em.jsp
+2025-04-19 02:32:48,618 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/ly-thuyet-to-lich-cua-em.md
+2025-04-19 02:32:48,618 - markdown_crawler - INFO - Đã lưu checkpoint vào ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/checkpoint.json
+2025-04-19 02:32:50,417 - markdown_crawler - INFO - [36/70] Đang crawl: https://www.vietjack.com/toan-1-ket-noi/ly-thuyet-do-dai.jsp
+2025-04-19 02:32:51,168 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/ly-thuyet-do-dai.md
+2025-04-19 02:32:52,169 - markdown_crawler - INFO - [37/70] Đang crawl: https://www.vietjack.com/toan-1-ket-noi/ly-thuyet-do-do-dai.jsp
+2025-04-19 02:32:52,696 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/ly-thuyet-do-do-dai.md
+2025-04-19 02:32:53,697 - markdown_crawler - INFO - [38/70] Đang crawl: https://www.vietjack.com/toan-1-ket-noi/ly-thuyet-xang-ti-met-don-vi-do-do-dai.jsp
+2025-04-19 02:32:54,138 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/ly-thuyet-xang-ti-met-don-vi-do-do-dai.md
+2025-04-19 02:32:55,140 - markdown_crawler - INFO - [39/70] Đang crawl: https://www.vietjack.com/de-kiem-tra-lop-1/de-kiem-tra-toan-lop-1.jsp
+2025-04-19 02:32:55,880 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/de-kiem-tra-toan-lop-1.md
+2025-04-19 02:32:56,881 - markdown_crawler - INFO - [40/70] Đang crawl: https://www.vietjack.com/de-kiem-tra-lop-1/de-kiem-tra-tieng-viet-lop-1.jsp
+2025-04-19 02:32:57,544 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/de-kiem-tra-tieng-viet-lop-1.md
+2025-04-19 02:32:57,544 - markdown_crawler - INFO - Đã lưu checkpoint vào ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/checkpoint.json
+2025-04-19 02:32:59,392 - markdown_crawler - INFO - [41/70] Đang crawl: https://www.vietjack.com/de-kiem-tra-lop-1/de-kiem-tra-tieng-anh-lop-1.jsp
+2025-04-19 02:32:59,865 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/de-kiem-tra-tieng-anh-lop-1.md
+2025-04-19 02:33:00,866 - markdown_crawler - INFO - [42/70] Đang crawl: https://www.vietjack.com/tai-lieu-tieu-hoc/ki-thi-toan-kangaroo-cap-do-1.jsp
+2025-04-19 02:33:01,628 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/ki-thi-toan-kangaroo-cap-do-1.md
+2025-04-19 02:33:02,629 - markdown_crawler - INFO - [43/70] Đang crawl: https://www.vietjack.com/bai-tap-cuoi-tuan-lop-1/bai-tap-cuoi-tuan-toan-lop-1-kntt.jsp
+2025-04-19 02:33:03,134 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/bai-tap-cuoi-tuan-toan-lop-1-kntt.md
+2025-04-19 02:33:04,135 - markdown_crawler - INFO - [44/70] Đang crawl: https://www.vietjack.com/bai-tap-cuoi-tuan-lop-1/bai-tap-cuoi-tuan-toan-lop-1-ctst.jsp
+2025-04-19 02:33:04,604 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/bai-tap-cuoi-tuan-toan-lop-1-ctst.md
+2025-04-19 02:33:05,605 - markdown_crawler - INFO - [45/70] Đang crawl: https://www.vietjack.com/bai-tap-cuoi-tuan-lop-1/bai-tap-cuoi-tuan-toan-lop-1-cd.jsp
+2025-04-19 02:33:06,074 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/bai-tap-cuoi-tuan-toan-lop-1-cd.md
+2025-04-19 02:33:06,074 - markdown_crawler - INFO - Đã lưu checkpoint vào ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/checkpoint.json
+2025-04-19 02:33:07,830 - markdown_crawler - INFO - [46/70] Đang crawl: https://www.vietjack.com/bai-tap-cuoi-tuan-lop-1/bai-tap-cuoi-tuan-tieng-viet-lop-1-kntt.jsp
+2025-04-19 02:33:08,263 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/bai-tap-cuoi-tuan-tieng-viet-lop-1-kntt.md
+2025-04-19 02:33:09,264 - markdown_crawler - INFO - [47/70] Đang crawl: https://www.vietjack.com/bai-tap-cuoi-tuan-lop-1/bai-tap-cuoi-tuan-tieng-viet-lop-1-ctst.jsp
+2025-04-19 02:33:09,801 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/bai-tap-cuoi-tuan-tieng-viet-lop-1-ctst.md
+2025-04-19 02:33:10,801 - markdown_crawler - INFO - [48/70] Đang crawl: https://www.vietjack.com/bai-tap-cuoi-tuan-lop-1/bai-tap-cuoi-tuan-tieng-viet-lop-1-cd.jsp
+2025-04-19 02:33:11,244 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/bai-tap-cuoi-tuan-tieng-viet-lop-1-cd.md
+2025-04-19 02:33:12,245 - markdown_crawler - INFO - [49/70] Đang crawl: https://www.vietjack.com/bai-tap-cuoi-tuan-lop-1/bai-tap-cuoi-tuan-toan-lop-1.jsp
+2025-04-19 02:33:12,680 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/bai-tap-cuoi-tuan-toan-lop-1.md
+2025-04-19 02:33:13,681 - markdown_crawler - INFO - [50/70] Đang crawl: https://www.vietjack.com/bai-tap-cuoi-tuan-lop-1/bai-tap-cuoi-tuan-tieng-viet-lop-1.jsp
+2025-04-19 02:33:14,072 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/bai-tap-cuoi-tuan-tieng-viet-lop-1.md
+2025-04-19 02:33:14,072 - markdown_crawler - INFO - Đã lưu checkpoint vào ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/checkpoint.json
+2025-04-19 02:33:15,904 - markdown_crawler - INFO - [51/70] Đang crawl: https://www.vietjack.com/de-kiem-tra-lop-1/bai-tap-tieng-viet-lop-1.jsp
+2025-04-19 02:33:16,276 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/bai-tap-tieng-viet-lop-1.md
+2025-04-19 02:33:17,277 - markdown_crawler - INFO - [52/70] Đang crawl: https://www.vietjack.com/de-kiem-tra-lop-1/bai-tap-tieng-viet-lop-1-ket-noi.jsp
+2025-04-19 02:33:17,600 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/bai-tap-tieng-viet-lop-1-ket-noi.md
+2025-04-19 02:33:18,601 - markdown_crawler - INFO - [53/70] Đang crawl: https://www.vietjack.com/de-kiem-tra-lop-1/bai-tap-tieng-viet-lop-1-canh-dieu.jsp
+2025-04-19 02:33:18,916 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/bai-tap-tieng-viet-lop-1-canh-dieu.md
+2025-04-19 02:33:19,917 - markdown_crawler - INFO - [54/70] Đang crawl: https://www.vietjack.com/de-kiem-tra-lop-1/bai-tap-toan-lop-1.jsp
+2025-04-19 02:33:20,320 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/bai-tap-toan-lop-1.md
+2025-04-19 02:33:21,321 - markdown_crawler - INFO - [55/70] Đang crawl: https://www.vietjack.com/de-kiem-tra-lop-1/bai-tap-toan-lop-1-ket-noi.jsp
+2025-04-19 02:33:21,643 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/bai-tap-toan-lop-1-ket-noi.md
+2025-04-19 02:33:21,644 - markdown_crawler - INFO - Đã lưu checkpoint vào ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/checkpoint.json
+2025-04-19 02:33:23,504 - markdown_crawler - INFO - [56/70] Đang crawl: https://www.vietjack.com/de-kiem-tra-lop-1/bai-tap-toan-lop-1-canh-dieu.jsp
+2025-04-19 02:33:23,888 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/bai-tap-toan-lop-1-canh-dieu.md
+2025-04-19 02:33:24,889 - markdown_crawler - INFO - [57/70] Đang crawl: https://www.vietjack.com/de-kiem-tra-lop-1/de-cuong-toan-lop-1.jsp
+2025-04-19 02:33:25,241 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/de-cuong-toan-lop-1.md
+2025-04-19 02:33:26,242 - markdown_crawler - INFO - [58/70] Đang crawl: https://www.vietjack.com/de-kiem-tra-lop-1/on-he-toan-lop-1-len-lop-2.jsp
+2025-04-19 02:33:26,741 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/on-he-toan-lop-1-len-lop-2.md
+2025-04-19 02:33:27,742 - markdown_crawler - INFO - [59/70] Đang crawl: https://www.vietjack.com/de-kiem-tra-lop-1/on-he-tieng-viet-lop-1-len-lop-2.jsp
+2025-04-19 02:33:28,259 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/on-he-tieng-viet-lop-1-len-lop-2.md
+2025-04-19 02:33:29,260 - markdown_crawler - INFO - [60/70] Đang crawl: https://www.vietjack.com/giao-an/giao-an-lop-1.jsp
+2025-04-19 02:33:29,829 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/giao-an-lop-1.md
+2025-04-19 02:33:29,830 - markdown_crawler - INFO - Đã lưu checkpoint vào ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/checkpoint.json
+2025-04-19 02:33:31,634 - markdown_crawler - INFO - [61/70] Đang crawl: https://www.vietjack.com/giao-an/giao-an-dien-tu-lop-1.jsp
+2025-04-19 02:33:32,043 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/giao-an-dien-tu-lop-1.md
+2025-04-19 02:33:33,044 - markdown_crawler - INFO - [62/70] Đang crawl: https://www.vietjack.com/tro-choi-powerpoint/index.jsp
+2025-04-19 02:33:33,385 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/index.md
+2025-04-19 02:33:34,385 - markdown_crawler - INFO - [63/70] Đang crawl: https://www.vietjack.com/giao-an-tieng-viet-1/index.jsp
+2025-04-19 02:33:38,760 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/index.md
+2025-04-19 02:33:39,761 - markdown_crawler - INFO - [64/70] Đang crawl: https://www.vietjack.com/giao-an-toan-1/index.jsp
+2025-04-19 02:33:40,772 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/index.md
+2025-04-19 02:33:41,773 - markdown_crawler - INFO - [65/70] Đang crawl: https://www.vietjack.com/giao-an-hoat-dong-trai-nghiem-1/index.jsp
+2025-04-19 02:33:42,555 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/index.md
+2025-04-19 02:33:42,555 - markdown_crawler - INFO - Đã lưu checkpoint vào ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/checkpoint.json
+2025-04-19 02:33:44,373 - markdown_crawler - INFO - [66/70] Đang crawl: https://www.vietjack.com/giao-an/giao-an-am-nhac-lop-1.jsp
+2025-04-19 02:33:44,936 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/giao-an-am-nhac-lop-1.md
+2025-04-19 02:33:45,937 - markdown_crawler - INFO - [67/70] Đang crawl: https://www.vietjack.com/giao-an/giao-an-dao-duc-lop-1.jsp
+2025-04-19 02:33:46,614 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/giao-an-dao-duc-lop-1.md
+2025-04-19 02:33:47,616 - markdown_crawler - INFO - [68/70] Đang crawl: https://www.vietjack.com/giao-an/giao-an-giao-duc-the-chat-lop-1.jsp
+2025-04-19 02:33:48,422 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/giao-an-giao-duc-the-chat-lop-1.md
+2025-04-19 02:33:49,423 - markdown_crawler - INFO - [69/70] Đang crawl: https://www.vietjack.com/giao-an/giao-an-mi-thuat-lop-1.jsp
+2025-04-19 02:33:50,064 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/giao-an-mi-thuat-lop-1.md
+2025-04-19 02:33:51,065 - markdown_crawler - INFO - [70/70] Đang crawl: https://www.vietjack.com/giao-an/giao-an-tu-nhien-xa-hoi-lop-1.jsp
+2025-04-19 02:33:51,700 - markdown_crawler - INFO - Đã lưu nội dung vào file ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/giao-an-tu-nhien-xa-hoi-lop-1.md
+2025-04-19 02:33:51,700 - markdown_crawler - INFO - Đã lưu checkpoint vào ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/checkpoint.json
+2025-04-19 02:33:53,447 - markdown_crawler - INFO - Đã lưu checkpoint vào ./lop-1/toan/ly-thuyet-toan-lop-1/markdown/checkpoint.json
+2025-04-19 02:33:53,447 - markdown_crawler - INFO - Hoàn thành! Đã crawl và lưu 70 trang vào thư mục ./lop-1/toan/ly-thuyet-toan-lop-1/markdown
+2025-04-19 02:33:54,261 - markdown_crawler - INFO - 
+=== KẾT QUẢ CUỐI CÙNG ===
+2025-04-19 02:33:54,261 - markdown_crawler - INFO - Files đã xử lý: 3/3
+2025-04-19 02:33:54,261 - markdown_crawler - INFO - URL đã crawl: 229
+2025-04-19 02:33:54,261 - markdown_crawler - INFO - URL bỏ qua (đã crawl trước đó): 15
+2025-04-19 02:33:54,261 - markdown_crawler - INFO - URL lỗi: 0
+2025-04-19 02:33:54,261 - markdown_crawler - INFO - Tổng URL: 244
+2025-04-19 02:33:54,262 - markdown_crawler - INFO - Tổng thời gian: 0:06:24
+2025-04-19 02:33:54,262 - markdown_crawler - INFO - === HOÀN THÀNH ===
